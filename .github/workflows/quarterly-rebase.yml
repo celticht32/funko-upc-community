@@ -1,0 +1,183 @@
+name: Quarterly rebase
+
+# Runs on the 1st of January, April, July, October at 09:00 UTC
+# Also triggerable manually from GitHub Mobile or the Actions tab
+
+on:
+  schedule:
+    - cron: "0 9 1 1,4,7,10 *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run — validate only, do not commit or open PR"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  rebase:
+    runs-on: ubuntu-latest
+    outputs:
+      has_review:  ${{ steps.rebase.outputs.has_review }}
+      clean_count: ${{ steps.rebase.outputs.clean_count }}
+      quarter:     ${{ steps.rebase.outputs.quarter }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download latest Kenny Chan funko_data.json
+        run: |
+          curl -sSL \
+            "https://raw.githubusercontent.com/kennymkchan/funko-pop-data/master/funko_pop.json" \
+            -o funko_data.json
+          echo "Kenny Chan records: $(python3 -c 'import json; d=json.load(open(\"funko_data.json\")); print(len(d))')"
+
+      - name: Run quarterly rebase (CI mode)
+        id: rebase
+        run: python3 quarterly-rebase.py --ci
+
+      - name: Upload review artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: quarterly-rebase-review-${{ github.run_id }}
+          path: |
+            REVIEW_invalid_upcs.json
+            REVIEW_junk.json
+            REVIEW_unknown_handle.json
+            rebase-summary.json
+          retention-days: 90
+
+      # ── CLEAN PATH: commit directly to main ────────────────────────────────
+      - name: Commit clean rebase to main
+        if: steps.rebase.outputs.has_review == 'false' && inputs.dry_run != 'true'
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name  "GitHub Actions"
+
+          cp funko_upc_community_CLEANED.json funko_upc_community.json
+
+          # Remove processed delta files
+          if ls deltas/*.json 2>/dev/null | grep -v '\.gitkeep'; then
+            git rm --ignore-unmatch 'deltas/*.json'
+          fi
+
+          # Reset merge state — deltas are now baked into master
+          echo '{"lastMergedAt":null,"totalRecords":0,"processedFiles":[]}' > merge-state.json
+
+          QUARTER="${{ steps.rebase.outputs.quarter }}"
+          COUNT="${{ steps.rebase.outputs.clean_count }}"
+
+          git add funko_upc_community.json merge-state.json
+          git diff --staged --quiet && echo "Nothing to commit" && exit 0
+
+          git commit -m "Quarterly rebase ${QUARTER} — ${COUNT} records [skip ci]"
+
+          # Tag the release
+          git tag "v$(date -u +%Y)-$(date -u +%m)"
+          git push
+          git push --tags
+
+      # ── REVIEW PATH: open a PR ─────────────────────────────────────────────
+      - name: Build PR body from rebase summary
+        if: steps.rebase.outputs.has_review == 'true' && inputs.dry_run != 'true'
+        id: pr_body
+        run: |
+          python3 - << 'EOF'
+          import json, os
+
+          with open('rebase-summary.json') as f:
+              s = json.load(f)
+
+          lines = [
+              f"## Quarterly rebase — {s['quarter']}",
+              f"",
+              f"**Run date:** {s['run_date']}",
+              f"**Records in:** {s['input_count']:,}  |  **Records out (clean):** {s['clean_count']:,}",
+              f"",
+              f"### Issues requiring review",
+              f"",
+          ]
+
+          if s['invalid_records']:
+              lines += [
+                  f"#### ⚠️ Invalid UPCs ({s['invalid_count']} total — first 20 shown)",
+                  "| UPC | Handle | Name | Reason |",
+                  "|---|---|---|---|",
+              ]
+              for r in s['invalid_records']:
+                  lines.append(f"| `{r.get('upc','')}` | {r.get('handle','')} | {r.get('name','')} | {r.get('_reason','')} |")
+              lines.append("")
+
+          if s['junk_records']:
+              lines += [
+                  f"#### ⚠️ Junk records ({s['junk_count']} total — first 20 shown)",
+                  "| UPC | Handle | Name | Reason |",
+                  "|---|---|---|---|",
+              ]
+              for r in s['junk_records']:
+                  lines.append(f"| `{r.get('upc','')}` | {r.get('handle','')} | {r.get('name','')} | {r.get('_reason','')} |")
+              lines.append("")
+
+          lines += [
+              "---",
+              "To approve: review the issues above, then merge this PR.",
+              "To reject specific records: edit `funko_upc_community_CLEANED.json` in this branch before merging.",
+              "Download full review files from the Actions artifacts tab.",
+          ]
+
+          body = '\n'.join(lines)
+          # Write to file to avoid shell quoting issues
+          with open('pr_body.md', 'w') as f:
+              f.write(body)
+          print("PR body written")
+          EOF
+
+      - name: Create review PR
+        if: steps.rebase.outputs.has_review == 'true' && inputs.dry_run != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          QUARTER="${{ steps.rebase.outputs.quarter }}"
+          BRANCH="quarterly-rebase-$(date -u +%Y%m%d)"
+
+          git config user.email "actions@github.com"
+          git config user.name  "GitHub Actions"
+
+          git checkout -b "${BRANCH}"
+
+          cp funko_upc_community_CLEANED.json funko_upc_community.json
+
+          if ls deltas/*.json 2>/dev/null | grep -v '\.gitkeep'; then
+            git rm --ignore-unmatch 'deltas/*.json'
+          fi
+
+          echo '{"lastMergedAt":null,"totalRecords":0,"processedFiles":[]}' > merge-state.json
+
+          git add funko_upc_community.json merge-state.json
+          git diff --staged --quiet && echo "Nothing to commit" && exit 0
+
+          git commit -m "Quarterly rebase ${QUARTER} — needs review [skip ci]"
+          git push origin "${BRANCH}"
+
+          gh pr create \
+            --title "Quarterly rebase ${QUARTER} — review required" \
+            --body-file pr_body.md \
+            --base main \
+            --head "${BRANCH}"
+
+      - name: Dry run notice
+        if: inputs.dry_run == 'true'
+        run: |
+          echo "::notice::Dry run complete — no changes committed. Review the artifacts."

@@ -1,0 +1,31 @@
+name: Weekly delta merge
+
+on:
+  schedule:
+    - cron: "0 2 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Merge deltas
+        run: node merge-deltas.js
+      - name: Validate
+        run: node validate-schema.js funko_upc_community.json
+      - name: Commit
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add funko_upc_community.json merge-state.json
+          git diff --staged --quiet || git commit -m "Weekly delta merge $(date -u +%Y-%m-%d) [skip ci]"
+          git push
