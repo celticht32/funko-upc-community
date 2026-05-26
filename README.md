@@ -60,19 +60,6 @@ random UUID generated at install time and stored in EncryptedSharedPreferences.
 It is used only for rate-limiting (50 contributions per device per day) and
 is never stored in this repository.
 
-## Setting up this repository
-
-**This repository must be public** so the FunkoDex app can download
-`funko_upc_community.json` without authentication.
-
-1. Create a new public GitHub repository: `celtic-heart-steamworks/funko-upc-community`
-2. Push the contents of this folder as the initial commit
-3. Deploy the Cloudflare Worker (see `../cloudflare-worker/README.md` in the app repo)
-4. Set `GITHUB_TOKEN` as a Cloudflare Worker Secret (PAT with `contents:write` on this repo)
-5. Configure `workerUrl` in the Android app's `local.properties`
-
-See `GITHUB_SETUP.md` in the app repository for full step-by-step instructions.
-
 ## Merge priority rules
 
 When two contributions map the same UPC to different products:
