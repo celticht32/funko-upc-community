@@ -1804,19 +1804,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "830395025902",
-    "handle": "ox",
-    "name": "Ox",
-    "franchise": "Blox",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#02",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/464312/Ox_Vinyl_Art_Toys_093b9fc1-f64d-4176-89bc-3c695c443777_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "830395027470",
     "handle": "sulley-green-&amp;-orange",
     "name": "Sulley (Green &amp; Orange)",
@@ -4987,19 +4974,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698455831",
-    "handle": "barley-lightfoot",
-    "name": "Barley Lightfoot",
-    "franchise": "Disney",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Disney",
-    "seriesNumber": "#722",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/873457/Barley_Lightfoot_Pins_and_Badges_bfe5ffe4-7043-41e0-843e-7b8ded696c95_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "889698321891",
     "handle": "brave-little-tailor",
     "name": "Brave Little Tailor",
@@ -8027,205 +8001,6 @@
     "exclusiveRetailer": "Funko Walmart"
   },
   {
-    "upc": "699788835579",
-    "handle": "aang",
-    "name": "Aang",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Pez",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/799933/Aang_PEZ_Dispensers_98ce9801-82b1-46c4-8e4f-bf66a94bb5f3_large.JPG",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698344890",
-    "handle": "bao",
-    "name": "Bao",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/576717/Bao_Vinyl_Art_Toys_0ec3c5e6-e6b7-4d78-8cf9-713d71f6e847_large.jpeg",
-    "category": "",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698136556",
-    "handle": "breezly",
-    "name": "Breezly",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Pez",
-    "seriesNumber": "#277",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/776890/Breezly_PEZ_Dispensers_a693a06c-3033-4fca-af04-22fd481e7a83_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698379649",
-    "handle": "firefighter",
-    "name": "Firefighter",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Pez",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/602033/Firefighter_PEZ_Dispensers_fb7294fc-210b-4271-9ed3-89d396a6f621_large.jpeg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698136587",
-    "handle": "hardy-har-har",
-    "name": "Hardy Har Har",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Pez",
-    "seriesNumber": "#276",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/776884/Hardy_Har_Har_PEZ_Dispensers_c70b9c8f-fbc0-439f-ae8e-2bbed770da7e_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698332330",
-    "handle": "huckleberry-hound-navy",
-    "name": "Huckleberry Hound (Navy)",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Pez",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/602025/Huckleberry_Hound_%2528Navy%2529_PEZ_Dispensers_39b8d5b1-f8a4-4427-94fa-60cf93f74e88_large.jpeg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698357678",
-    "handle": "knick-knack-snowman",
-    "name": "Knick Knack Snowman",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/783234/Knick_Knack_Snowman_Vinyl_Art_Toys_4d32ee4f-11dd-466d-afde-90226c28be17.png",
-    "category": "",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698132619",
-    "handle": "launchpad-mcquack",
-    "name": "Launchpad McQuack",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Pez",
-    "seriesNumber": "#297",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/842114/Launchpad_McQuack_PEZ_Dispensers_bb91596c-3d8b-4df9-bb86-06b542b2ae2f_large.JPG",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698136570",
-    "handle": "lippy-the-lion",
-    "name": "Lippy the Lion",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Pez",
-    "seriesNumber": "#275",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/776883/Lippy_the_Lion_PEZ_Dispensers_c45ffd4c-9e1a-422d-80bc-62f476f08d93_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "830395024660",
-    "handle": "lotso",
-    "name": "Lotso",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Pez",
-    "seriesNumber": "#13",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/776865/Lotso_PEZ_Dispensers_ef1bed3c-9f44-4809-8c2a-2c50bdbdfdb3_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698483919",
-    "handle": "mona-lisa-grin-gold",
-    "name": "Mona Lisa Grin (Gold)",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/769518/Mona_Lisa_Grin_%2528Gold%2529_Vinyl_Art_Toys_fb1c1fa7-1558-4704-b29a-8018b8e26bb0_large.jpg",
-    "category": "",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698483926",
-    "handle": "mona-lisa-grin-green",
-    "name": "Mona Lisa Grin (Green)",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/769517/Mona_Lisa_Grin_%2528Green%2529_Vinyl_Art_Toys_5e346c79-b081-440b-b588-da491a583122_large.jpg",
-    "category": "",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698122924",
-    "handle": "piper",
-    "name": "Piper",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#164",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/730593/Piper_Vinyl_Art_Toys_bd51cda7-e664-42cf-b011-260c95d0ca74_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698136563",
-    "handle": "sneezly",
-    "name": "Sneezly",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Pez",
-    "seriesNumber": "#278",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/776889/Sneezly_PEZ_Dispensers_7256aec3-f7d4-42bc-8581-70ac598bdf2c_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698369084",
-    "handle": "star-lord-gold",
-    "name": "Star-Lord (Gold)",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Pez",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/602036/Star-Lord_%2528Gold%2529_PEZ_Dispensers_d85c31d6-58bc-44ac-8cf4-450e849224ce_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "830395079851",
-    "handle": "touche-turtle",
-    "name": "Touche Turtle",
-    "franchise": "Funko-Shop",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Pez",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/776887/Touche_Turtle_PEZ_Dispensers_24c0a0e5-1b22-4428-852c-c0ea98d9d138_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "889698352086",
     "handle": "batgirl-funko's",
     "name": "Batgirl FunkO's",
@@ -8598,6 +8373,205 @@
     "category": ""
   },
   {
+    "upc": "699788835579",
+    "handle": "aang",
+    "name": "Aang",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Pez",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/799933/Aang_PEZ_Dispensers_98ce9801-82b1-46c4-8e4f-bf66a94bb5f3_large.JPG",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698344890",
+    "handle": "bao",
+    "name": "Bao",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/576717/Bao_Vinyl_Art_Toys_0ec3c5e6-e6b7-4d78-8cf9-713d71f6e847_large.jpeg",
+    "category": "",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698136556",
+    "handle": "breezly",
+    "name": "Breezly",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Pez",
+    "seriesNumber": "#277",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/776890/Breezly_PEZ_Dispensers_a693a06c-3033-4fca-af04-22fd481e7a83_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698379649",
+    "handle": "firefighter",
+    "name": "Firefighter",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Pez",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/602033/Firefighter_PEZ_Dispensers_fb7294fc-210b-4271-9ed3-89d396a6f621_large.jpeg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698136587",
+    "handle": "hardy-har-har",
+    "name": "Hardy Har Har",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Pez",
+    "seriesNumber": "#276",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/776884/Hardy_Har_Har_PEZ_Dispensers_c70b9c8f-fbc0-439f-ae8e-2bbed770da7e_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698332330",
+    "handle": "huckleberry-hound-navy",
+    "name": "Huckleberry Hound (Navy)",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Pez",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/602025/Huckleberry_Hound_%2528Navy%2529_PEZ_Dispensers_39b8d5b1-f8a4-4427-94fa-60cf93f74e88_large.jpeg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698357678",
+    "handle": "knick-knack-snowman",
+    "name": "Knick Knack Snowman",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/783234/Knick_Knack_Snowman_Vinyl_Art_Toys_4d32ee4f-11dd-466d-afde-90226c28be17.png",
+    "category": "",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698132619",
+    "handle": "launchpad-mcquack",
+    "name": "Launchpad McQuack",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Pez",
+    "seriesNumber": "#297",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/842114/Launchpad_McQuack_PEZ_Dispensers_bb91596c-3d8b-4df9-bb86-06b542b2ae2f_large.JPG",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698136570",
+    "handle": "lippy-the-lion",
+    "name": "Lippy the Lion",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Pez",
+    "seriesNumber": "#275",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/776883/Lippy_the_Lion_PEZ_Dispensers_c45ffd4c-9e1a-422d-80bc-62f476f08d93_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "830395024660",
+    "handle": "lotso",
+    "name": "Lotso",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Pez",
+    "seriesNumber": "#13",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/776865/Lotso_PEZ_Dispensers_ef1bed3c-9f44-4809-8c2a-2c50bdbdfdb3_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698483919",
+    "handle": "mona-lisa-grin-gold",
+    "name": "Mona Lisa Grin (Gold)",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/769518/Mona_Lisa_Grin_%2528Gold%2529_Vinyl_Art_Toys_fb1c1fa7-1558-4704-b29a-8018b8e26bb0_large.jpg",
+    "category": "",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698483926",
+    "handle": "mona-lisa-grin-green",
+    "name": "Mona Lisa Grin (Green)",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/769517/Mona_Lisa_Grin_%2528Green%2529_Vinyl_Art_Toys_5e346c79-b081-440b-b588-da491a583122_large.jpg",
+    "category": "",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698122924",
+    "handle": "piper",
+    "name": "Piper",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "seriesNumber": "#164",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/730593/Piper_Vinyl_Art_Toys_bd51cda7-e664-42cf-b011-260c95d0ca74_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698136563",
+    "handle": "sneezly",
+    "name": "Sneezly",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Pez",
+    "seriesNumber": "#278",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/776889/Sneezly_PEZ_Dispensers_7256aec3-f7d4-42bc-8581-70ac598bdf2c_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698369084",
+    "handle": "star-lord-gold",
+    "name": "Star-Lord (Gold)",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Pez",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/602036/Star-Lord_%2528Gold%2529_PEZ_Dispensers_d85c31d6-58bc-44ac-8cf4-450e849224ce_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "830395079851",
+    "handle": "touche-turtle",
+    "name": "Touche Turtle",
+    "franchise": "Funko-Shop",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Pez",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/776887/Touche_Turtle_PEZ_Dispensers_24c0a0e5-1b22-4428-852c-c0ea98d9d138_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "830395082295",
     "handle": "abominable-snowman-&amp;-daffy-duck",
     "name": "Abominable Snowman &amp; Daffy Duck",
@@ -8606,18 +8580,6 @@
     "source": "USER_SCAN",
     "contributedAt": "2026-06-12",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/464482/Abominable_Snowman_and_Daffy_Duck_Vinyl_Art_Toys_1406d894-3bd9-4ae8-b6f5-5d5da714369c_large.jpg",
-    "category": "",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "830395082615",
-    "handle": "barney-&amp;-betty-rubble",
-    "name": "Barney &amp; Betty Rubble",
-    "franchise": "Funkovision",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/464480/Barney_and_Betty_Rubble_Vinyl_Art_Toys_0023b30f-3652-4a5d-8426-90ed0371268b_large.jpg",
     "category": "",
     "exclusiveRetailer": ""
   },
@@ -9493,18 +9455,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698372558",
-    "handle": "batman-batman-beyond-&amp;-batman",
-    "name": "Batman (Batman Beyond) &amp; Batman",
-    "franchise": "HeroWorld",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/747698/Batman_%2528Batman_Beyond%2529_and_Batman_Vinyl_Art_Toys_fbed21d4-5175-452a-8dcf-885f298f4656_large.jpg",
-    "exclusiveRetailer": "Funko Target",
-    "category": ""
-  },
-  {
     "upc": "889698299978",
     "handle": "batman-&amp;-catwoman",
     "name": "Batman &amp; Catwoman",
@@ -9513,6 +9463,18 @@
     "source": "USER_SCAN",
     "contributedAt": "2026-06-12",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/599862/Batman_and_Catwoman_Vinyl_Art_Toys_Sets_6e1921e6-37a9-4439-9cd1-e8fa9f3272ad_large.jpeg",
+    "exclusiveRetailer": "Funko Target",
+    "category": ""
+  },
+  {
+    "upc": "889698372558",
+    "handle": "batman-batman-beyond-&amp;-batman",
+    "name": "Batman (Batman Beyond) &amp; Batman",
+    "franchise": "HeroWorld",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/747698/Batman_%2528Batman_Beyond%2529_and_Batman_Vinyl_Art_Toys_fbed21d4-5175-452a-8dcf-885f298f4656_large.jpg",
     "exclusiveRetailer": "Funko Target",
     "category": ""
   },
@@ -10614,6 +10576,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698162128",
+    "handle": "captain-america-&amp;-iron-man-civil-war-(action-pose)-(2-pack)",
+    "name": "Captain America &amp; Iron Man (Civil War) (Action Pose) (2-Pack)",
+    "franchise": "Marvel Collector Corps",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/462463/Captain_America_and_Iron_Man_%2528Civil_War%2529_%2528Action_Pose%2529_%25282-Pack%2529_Vinyl_Art_Toys_bbad550c-b57d-430c-81f7-5cf9cc5332ce_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698385893",
     "handle": "captain-america-with-mjolnir",
     "name": "Captain America (with Mjolnir)",
@@ -10625,18 +10599,6 @@
     "seriesNumber": "#481",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/834476/Captain_America_%2528with_Mjolnir%2529_Vinyl_Art_Toys_a4d9cfd3-71e8-4edb-89ec-1eb4fd324d3b.png",
     "exclusiveRetailer": "Funko Amazon"
-  },
-  {
-    "upc": "889698162128",
-    "handle": "captain-america-&amp;-iron-man-civil-war-(action-pose)-(2-pack)",
-    "name": "Captain America &amp; Iron Man (Civil War) (Action Pose) (2-Pack)",
-    "franchise": "Marvel Collector Corps",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/462463/Captain_America_and_Iron_Man_%2528Civil_War%2529_%2528Action_Pose%2529_%25282-Pack%2529_Vinyl_Art_Toys_bbad550c-b57d-430c-81f7-5cf9cc5332ce_large.jpg",
-    "exclusiveRetailer": ""
   },
   {
     "upc": "849803072742",
@@ -12556,71 +12518,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698220170",
-    "handle": "foot-soldier-blue",
-    "name": "Foot Soldier (Blue)",
-    "franchise": "New York Comic Con 2017",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#9",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/568612/Foot_Soldier_%2528Blue%2529_Vinyl_Art_Toys_4bc785ea-c2aa-4afd-a695-b34a088ab063_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698220187",
-    "handle": "foot-soldier-purple",
-    "name": "Foot Soldier (Purple)",
-    "franchise": "New York Comic Con 2017",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#9",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/568610/Foot_Soldier_%2528Purple%2529_Vinyl_Art_Toys_99e9edb5-19c0-4c15-987e-78680ae31a5c_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698220194",
-    "handle": "foot-soldier-red",
-    "name": "Foot Soldier (Red)",
-    "franchise": "New York Comic Con 2017",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#9",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/568614/Foot_Soldier_%2528Red%2529_Vinyl_Art_Toys_93337b6c-d0d1-4dbe-8d1e-d673bd8c9fcb_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698220200",
-    "handle": "foot-soldier-white",
-    "name": "Foot Soldier (White)",
-    "franchise": "New York Comic Con 2017",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#9",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/568611/Foot_Soldier_%2528White%2529_Vinyl_Art_Toys_9257cd0e-b933-4f62-b34d-493e346b1ae2_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698220217",
-    "handle": "foot-soldier-yellow",
-    "name": "Foot Soldier (Yellow)",
-    "franchise": "New York Comic Con 2017",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#9",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/568613/Foot_Soldier_%2528Yellow%2529_Vinyl_Art_Toys_d47cdb08-317a-4bcb-aca0-c74fb306b9d1_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "0889698237222",
     "handle": "jim-red-armor-pop-prototype",
     "name": "Jim (Red Armor) Pop Prototype",
@@ -13517,8 +13414,8 @@
   },
   {
     "upc": "849803058678",
-    "handle": "andré-the-giant",
-    "name": "André the Giant",
+    "handle": "andr\u00e9-the-giant",
+    "name": "Andr\u00e9 the Giant",
     "franchise": "Pint Size Heroes",
     "schemaVersion": 1,
     "source": "USER_SCAN",
@@ -15104,18 +15001,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "830395082967",
-    "handle": "bart-simpson",
-    "name": "Bart Simpson",
-    "franchise": "Plushies",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Television",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/475201/Bart_Simpson_Plush_Toys_8cf3d525-48bf-437b-8532-b519d0fcae03_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "830395020891",
     "handle": "batman-with-mouth",
     "name": "Batman (With Mouth",
@@ -16351,19 +16236,6 @@
     "contributedAt": "2026-06-12",
     "category": "Pop! Vinyl",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/520043/Bananyako_Keychains_a811bfd1-b00b-417a-b25d-ccaae1d7f7ea_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "849803098285",
-    "handle": "barrel",
-    "name": "Barrel",
-    "franchise": "Pocket Pop!",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Pez",
-    "seriesNumber": "#174",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/863270/Barrel_Vinyl_Art_Toys_665ffd49-18c7-4c2a-accf-37bbcbf33707_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -20350,6 +20222,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698460903",
+    "handle": "sally-&amp;-jack-2-pack",
+    "name": "Sally &amp; Jack (2-Pack)",
+    "franchise": "Pocket Pop!",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/769661/Sally_and_Jack_%25282-Pack%2529_Keychains_6f706564-e7e3-4c0e-8214-4e20a05208e6_large.jpg",
+    "exclusiveRetailer": "Funko Hot Topic",
+    "category": ""
+  },
+  {
     "upc": "849803036584",
     "handle": "sally-glow-in-the-dark",
     "name": "Sally (Glow In The Dark)",
@@ -20373,18 +20257,6 @@
     "category": "Pop! Disney",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/863283/Sally_%2528Seated%2529_Vinyl_Art_Toys_79cbf4b7-1085-429f-a909-6ae0868e2c18_large.jpg",
     "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698460903",
-    "handle": "sally-&amp;-jack-2-pack",
-    "name": "Sally &amp; Jack (2-Pack)",
-    "franchise": "Pocket Pop!",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/769661/Sally_and_Jack_%25282-Pack%2529_Keychains_6f706564-e7e3-4c0e-8214-4e20a05208e6_large.jpg",
-    "exclusiveRetailer": "Funko Hot Topic",
-    "category": ""
   },
   {
     "upc": "889698135535",
@@ -20907,6 +20779,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698363709",
+    "handle": "stitch-&amp;-angel-2-pack",
+    "name": "Stitch &amp; Angel (2-Pack)",
+    "franchise": "Pocket Pop!",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/610648/Stitch_and_Angel_%25282-Pack%2529_Keychains_8fb88a1d-0f53-4652-a68a-6c4da7ecc29b_large.jpeg",
+    "category": "",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698260381",
     "handle": "stitch-diamond-collection",
     "name": "Stitch (Diamond Collection)",
@@ -20943,18 +20827,6 @@
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/769772/Stitch_%2528Metallic%2529_Keychains_371a85d5-3cee-49b8-8c60-8af59eee7ed8_large.jpg",
     "exclusiveRetailer": "Funko Hot Topic",
     "category": ""
-  },
-  {
-    "upc": "889698363709",
-    "handle": "stitch-&amp;-angel-2-pack",
-    "name": "Stitch &amp; Angel (2-Pack)",
-    "franchise": "Pocket Pop!",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/610648/Stitch_and_Angel_%25282-Pack%2529_Keychains_8fb88a1d-0f53-4652-a68a-6c4da7ecc29b_large.jpeg",
-    "category": "",
-    "exclusiveRetailer": ""
   },
   {
     "upc": "889698483568",
@@ -22728,19 +22600,6 @@
     "exclusiveRetailer": "Funko GameStop"
   },
   {
-    "upc": "849803039288",
-    "handle": "barney-rubble-#02",
-    "name": "Barney Rubble #02",
-    "franchise": "Pop! Animation",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Animation",
-    "seriesNumber": "#2",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/858884/Barney_Rubble_Vinyl_Art_Toys_4b37847c-1e63-47b2-afae-4c9e2c39b4aa.jpeg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "889698439848",
     "handle": "battle-of-fallen-angels",
     "name": "Battle of Fallen Angels",
@@ -23232,6 +23091,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698110501",
+    "handle": "bulma-&amp;-goku-with-flying-nimbus",
+    "name": "Bulma &amp; Goku with Flying Nimbus",
+    "franchise": "Pop! Animation",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Animation",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463062/Bulma_and_Goku_with_Flying_Nimbus_Vinyl_Art_Toys_92f26a60-d3b8-4985-8977-940955149701_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698442640",
     "handle": "bulma-trunks-saga",
     "name": "Bulma (Trunks Saga)",
@@ -23242,18 +23113,6 @@
     "category": "Pop! Animation",
     "seriesNumber": "#707",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/766369/Bulma_%2528Trunks_Saga%2529_Vinyl_Art_Toys_570374e5-34c9-4157-9309-ae1d0665a31a_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698110501",
-    "handle": "bulma-&amp;-goku-with-flying-nimbus",
-    "name": "Bulma &amp; Goku with Flying Nimbus",
-    "franchise": "Pop! Animation",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Animation",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463062/Bulma_and_Goku_with_Flying_Nimbus_Vinyl_Art_Toys_92f26a60-d3b8-4985-8977-940955149701_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -24720,6 +24579,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698148535",
+    "handle": "gohan-&amp;-piccolo-2-pack",
+    "name": "Gohan &amp; Piccolo (2-Pack)",
+    "franchise": "Pop! Animation",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Animation",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/480034/Gohan_andamp%253B_Piccolo_%25282-Pack%2529_Vinyl_Art_Toys_b5a9c17d-f970-49cf-a47c-7ccf4d390066_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698476836",
     "handle": "gohan-rush",
     "name": "Gohan (Rush)",
@@ -24759,16 +24630,16 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698148535",
-    "handle": "gohan-&amp;-piccolo-2-pack",
-    "name": "Gohan &amp; Piccolo (2-Pack)",
+    "upc": "889698417174",
+    "handle": "goku-&amp;-vegeta-baseball-(2-pack)",
+    "name": "Goku &amp; Vegeta (Baseball) (2-Pack)",
     "franchise": "Pop! Animation",
     "schemaVersion": 1,
     "source": "USER_SCAN",
     "contributedAt": "2026-06-12",
     "category": "Pop! Animation",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/480034/Gohan_andamp%253B_Piccolo_%25282-Pack%2529_Vinyl_Art_Toys_b5a9c17d-f970-49cf-a47c-7ccf4d390066_large.jpg",
-    "exclusiveRetailer": ""
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/748044/Goku_and_Vegeta_%2528Baseball%2529_%25282-Pack%2529_Vinyl_Art_Toys_9809ed2d-0148-4d79-abe7-abd85c52b175_large.jpg",
+    "exclusiveRetailer": "Funko BoxLunch"
   },
   {
     "upc": "889698363945",
@@ -24808,18 +24679,6 @@
     "seriesNumber": "#642",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/795075/Goku_%2528Windy%2529_%2528Kamehameha%2529_Vinyl_Art_Toys_8dff3451-1adf-46b3-addd-4d1464a22a3c_large.png",
     "exclusiveRetailer": "Funko GameStop"
-  },
-  {
-    "upc": "889698417174",
-    "handle": "goku-&amp;-vegeta-baseball-(2-pack)",
-    "name": "Goku &amp; Vegeta (Baseball) (2-Pack)",
-    "franchise": "Pop! Animation",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Animation",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/748044/Goku_and_Vegeta_%2528Baseball%2529_%25282-Pack%2529_Vinyl_Art_Toys_9809ed2d-0148-4d79-abe7-abd85c52b175_large.jpg",
-    "exclusiveRetailer": "Funko BoxLunch"
   },
   {
     "upc": "849803064532",
@@ -25003,19 +24862,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "885561220629",
-    "handle": "grumpy-bear-flocked,-toys-r-us",
-    "name": "Grumpy Bear (Flocked, Toys R Us)",
-    "franchise": "Pop! Animation",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Animation",
-    "seriesNumber": "#353",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/872415/Grumpy_Bear_%2528Flocked%252C_Toys_R_Us%2529_Vinyl_Art_Toys_96f9e8eb-a347-4f3f-85fa-1cd0d9298cdb_large.jpg",
-    "exclusiveRetailer": "Funko Toys R Us"
-  },
-  {
     "upc": "889698291699",
     "handle": "grumpy-bear-flocked",
     "name": "Grumpy Bear (Flocked)",
@@ -25027,6 +24873,19 @@
     "seriesNumber": "#353",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/745231/Grumpy_Bear_%2528Flocked%2529_Vinyl_Art_Toys_972896cc-0e06-4f92-946c-ac23204a2d0e_large.jpeg",
     "exclusiveRetailer": "Funko BoxLunch"
+  },
+  {
+    "upc": "885561220629",
+    "handle": "grumpy-bear-flocked,-toys-r-us",
+    "name": "Grumpy Bear (Flocked, Toys R Us)",
+    "franchise": "Pop! Animation",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Animation",
+    "seriesNumber": "#353",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/872415/Grumpy_Bear_%2528Flocked%252C_Toys_R_Us%2529_Vinyl_Art_Toys_96f9e8eb-a347-4f3f-85fa-1cd0d9298cdb_large.jpg",
+    "exclusiveRetailer": "Funko Toys R Us"
   },
   {
     "upc": "889698123754",
@@ -27813,19 +27672,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698402439",
-    "handle": "rj",
-    "name": "RJ",
-    "franchise": "Pop! Animation",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Animation",
-    "seriesNumber": "#683",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/744777/RJ_Vinyl_Art_Toys_cbe418b0-bba1-4c55-9789-9a1df7ec64cc_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "1644212316446",
     "handle": "road-runner",
     "name": "Road Runner",
@@ -29458,6 +29304,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698326728",
+    "handle": "tom-&amp;-jerry-flocked-(2-pack)",
+    "name": "Tom &amp; Jerry (Flocked) (2-Pack)",
+    "franchise": "Pop! Animation",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Animation",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/584140/Tom_and_Jerry_%2528Flocked%2529_%25282-Pack%2529_Vinyl_Art_Toys_19223c71-a2af-4863-89df-347193442a21_large.jpeg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698326735",
     "handle": "tom-bomb",
     "name": "Tom (Bomb)",
@@ -29469,18 +29327,6 @@
     "seriesNumber": "#409",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/584136/Tom_%2528Bomb%2529_Vinyl_Art_Toys_ee906145-e9c2-418a-a537-1715f04b1a92_large.jpeg",
     "exclusiveRetailer": "Funko Target"
-  },
-  {
-    "upc": "889698326728",
-    "handle": "tom-&amp;-jerry-flocked-(2-pack)",
-    "name": "Tom &amp; Jerry (Flocked) (2-Pack)",
-    "franchise": "Pop! Animation",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Animation",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/584140/Tom_and_Jerry_%2528Flocked%2529_%25282-Pack%2529_Vinyl_Art_Toys_19223c71-a2af-4863-89df-347193442a21_large.jpeg",
-    "exclusiveRetailer": ""
   },
   {
     "upc": "889698517409",
@@ -30767,19 +30613,6 @@
     "exclusiveRetailer": "Funko Target"
   },
   {
-    "upc": "849803071066",
-    "handle": "barbossa",
-    "name": "Barbossa",
-    "franchise": "Pop! Disney",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Disney",
-    "seriesNumber": "#173",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/462178/Barbossa_Vinyl_Art_Toys_dad9e24a-d712-44cf-8c83-a78644388be9_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "889698477185",
     "handle": "basil",
     "name": "Basil",
@@ -31766,19 +31599,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "849803091255",
-    "handle": "dory-finding-dory",
-    "name": "Dory (Finding Dory)",
-    "franchise": "Pop! Disney",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Disney",
-    "seriesNumber": "#192",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/462480/Dory_%2528Finding_Dory%2529_Vinyl_Art_Toys_bd37fceb-1dcb-4b91-a6e2-2a9ebe5936c6_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "849803037482",
     "handle": "dory-#74",
     "name": "Dory #74",
@@ -31789,6 +31609,19 @@
     "category": "Pop! Disney",
     "seriesNumber": "#74",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/861913/Dory_Vinyl_Art_Toys_c403c691-3fe5-46c4-841b-4e703fb6200e.jpeg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "849803091255",
+    "handle": "dory-finding-dory",
+    "name": "Dory (Finding Dory)",
+    "franchise": "Pop! Disney",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Disney",
+    "seriesNumber": "#192",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/462480/Dory_%2528Finding_Dory%2529_Vinyl_Art_Toys_bd37fceb-1dcb-4b91-a6e2-2a9ebe5936c6_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -33270,6 +33103,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "830395035130",
+    "handle": "jack,-sally,-and-oogie-metallic",
+    "name": "Jack, Sally, And Oogie (Metallic)",
+    "franchise": "Pop! Disney",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Disney",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/458083/Jack%252C_Sally_And_Oogie_%2528Metallic%2529_Vinyl_Art_Toys_5fa296ee-6faa-4cce-beea-3de78c1c78b6_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698366397",
     "handle": "jack-jack-10-inch",
     "name": "Jack-Jack (10-Inch)",
@@ -33306,18 +33151,6 @@
     "category": "Pop! Disney",
     "seriesNumber": "#367",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/583953/Jack-Jack_%2528Silver%2529_Vinyl_Art_Toys_8c1c3546-2fe2-4f17-ae2e-22509f2be757_large.jpeg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "830395035130",
-    "handle": "jack,-sally,-and-oogie-metallic",
-    "name": "Jack, Sally, And Oogie (Metallic)",
-    "franchise": "Pop! Disney",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Disney",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/458083/Jack%252C_Sally_And_Oogie_%2528Metallic%2529_Vinyl_Art_Toys_5fa296ee-6faa-4cce-beea-3de78c1c78b6_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -34434,6 +34267,31 @@
     "exclusiveRetailer": "Funko Amazon"
   },
   {
+    "upc": "889698117975",
+    "handle": "moana-&amp;-kakamora",
+    "name": "Moana &amp; Kakamora",
+    "franchise": "Pop! Disney",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Disney",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463174/Moana_and_Kakamora_Vinyl_Art_Toys_2993ec3a-be87-4a20-bb16-f18d740deb68_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "849803099268",
+    "handle": "moana-&amp;-pua",
+    "name": "Moana &amp; Pua",
+    "franchise": "Pop! Disney",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Disney",
+    "seriesNumber": "#213",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463181/Moana_and_Pua_Vinyl_Art_Toys_d5f15346-ed60-402c-8024-480cec831d36_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698293860",
     "handle": "moana-ceremony",
     "name": "Moana (Ceremony)",
@@ -34471,31 +34329,6 @@
     "seriesNumber": "#217",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463178/Moana_%2528Voyager%2529_Vinyl_Art_Toys_33a43c3d-3cb7-45cf-a68d-a169c099c4f3_large.jpg",
     "exclusiveRetailer": "Funko Walmart"
-  },
-  {
-    "upc": "889698117975",
-    "handle": "moana-&amp;-kakamora",
-    "name": "Moana &amp; Kakamora",
-    "franchise": "Pop! Disney",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Disney",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463174/Moana_and_Kakamora_Vinyl_Art_Toys_2993ec3a-be87-4a20-bb16-f18d740deb68_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "849803099268",
-    "handle": "moana-&amp;-pua",
-    "name": "Moana &amp; Pua",
-    "franchise": "Pop! Disney",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Disney",
-    "seriesNumber": "#213",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463181/Moana_and_Pua_Vinyl_Art_Toys_d5f15346-ed60-402c-8024-480cec831d36_large.jpg",
-    "exclusiveRetailer": ""
   },
   {
     "upc": "889698292054",
@@ -34755,6 +34588,19 @@
     "exclusiveRetailer": "Funko Amazon"
   },
   {
+    "upc": "849803058982",
+    "handle": "mushu-&amp;-cricket",
+    "name": "Mushu &amp; Cricket",
+    "franchise": "Pop! Disney",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Disney",
+    "seriesNumber": "#167",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/461935/Mushu_and_Cricket_Vinyl_Art_Toys_3fbc8607-1e89-4bad-9de0-b01e216631f2_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "849803071110",
     "handle": "mushu-gold-&amp;-cricket",
     "name": "Mushu (Gold) &amp; Cricket",
@@ -34807,19 +34653,6 @@
     "exclusiveRetailer": "Funko Hot Topic"
   },
   {
-    "upc": "849803058982",
-    "handle": "mushu-&amp;-cricket",
-    "name": "Mushu &amp; Cricket",
-    "franchise": "Pop! Disney",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Disney",
-    "seriesNumber": "#167",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/461935/Mushu_and_Cricket_Vinyl_Art_Toys_3fbc8607-1e89-4bad-9de0-b01e216631f2_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "889698364003",
     "handle": "nala",
     "name": "Nala",
@@ -34845,6 +34678,18 @@
     "retailPrice": 14.99,
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/462256/Nick_Wilde_Vinyl_Art_Toys_3be3b843-5cbd-4363-84c3-a33e1440e328_large.jpg",
     "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698247146",
+    "handle": "olaf-&amp;-sven-2-pack",
+    "name": "Olaf &amp; Sven (2-Pack)",
+    "franchise": "Pop! Disney",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Disney",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/583244/Olaf_and_Sven_%25282-Pack%2529_Vinyl_Art_Toys_Sets_88f0192f-e377-4eb2-9779-67cee096cf5d_large.jpg",
+    "exclusiveRetailer": "Funko Best Buy"
   },
   {
     "upc": "849803050740",
@@ -34884,18 +34729,6 @@
     "seriesNumber": "#583",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/750862/Olaf_%2528Frozen_2%2529_%2528Diamond_Collection%2529_Vinyl_Art_Toys_34f37a2e-d40b-48a1-a205-8940010067d2_large.jpg",
     "exclusiveRetailer": "Funko Barnes & Noble"
-  },
-  {
-    "upc": "889698247146",
-    "handle": "olaf-&amp;-sven-2-pack",
-    "name": "Olaf &amp; Sven (2-Pack)",
-    "franchise": "Pop! Disney",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Disney",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/583244/Olaf_and_Sven_%25282-Pack%2529_Vinyl_Art_Toys_Sets_88f0192f-e377-4eb2-9779-67cee096cf5d_large.jpg",
-    "exclusiveRetailer": "Funko Best Buy"
   },
   {
     "upc": "889698465854",
@@ -35548,6 +35381,19 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "849803051358",
+    "handle": "rapunzel-&amp;-pascal",
+    "name": "Rapunzel &amp; Pascal",
+    "franchise": "Pop! Disney",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Disney",
+    "seriesNumber": "#147",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/460575/Rapunzel_and_Pascal_Vinyl_Art_Toys_e1689d60-fdc5-4319-82ae-e9f8d1603ef3_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698112222",
     "handle": "rapunzel-dancing",
     "name": "Rapunzel (Dancing)",
@@ -35572,19 +35418,6 @@
     "seriesNumber": "#223",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463506/Rapunzel_%2528Dancing%2529_%2528Glitter%2529_Vinyl_Art_Toys_afc15898-790f-45a3-96f7-146ef8313d7b_large.jpg",
     "exclusiveRetailer": "Funko Walmart"
-  },
-  {
-    "upc": "849803051358",
-    "handle": "rapunzel-&amp;-pascal",
-    "name": "Rapunzel &amp; Pascal",
-    "franchise": "Pop! Disney",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Disney",
-    "seriesNumber": "#147",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/460575/Rapunzel_and_Pascal_Vinyl_Art_Toys_e1689d60-fdc5-4319-82ae-e9f8d1603ef3_large.jpg",
-    "exclusiveRetailer": ""
   },
   {
     "upc": "889698504645",
@@ -37175,18 +37008,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698487160",
-    "handle": "footloose",
-    "name": "Footloose",
-    "franchise": "Pop! Games",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Games",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/796687/Footloose_Board_Games_4a25a6ea-3954-43b8-844d-127f8cbbf6cb_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "889698487139",
     "handle": "godzilla-tokyo-clash",
     "name": "Godzilla Tokyo Clash",
@@ -37524,19 +37345,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698466660",
-    "handle": "barbara-minerva",
-    "name": "Barbara Minerva",
-    "franchise": "Pop! Heroes",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Heroes",
-    "seriesNumber": "#327",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/775976/Barbara_Minerva_Vinyl_Art_Toys_7ae448d2-76e7-4d3e-b23d-0779594cc3c5_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "889698220149",
     "handle": "batgirl-8-bit",
     "name": "Batgirl (8-Bit)",
@@ -37678,6 +37486,18 @@
     "seriesNumber": "#148",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/480005/Batgirl_%2528Silver_Age%2529_Vinyl_Art_Toys_d4db4f2a-5fff-4d31-ac0c-a3d6c43f88c8_large.jpg",
     "exclusiveRetailer": "Funko BAM"
+  },
+  {
+    "upc": "889698119832",
+    "handle": "batman-&amp;-joker-surf's-up-2-pack",
+    "name": "Batman &amp; Joker Surf's Up 2-Pack",
+    "franchise": "Pop! Heroes",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Heroes",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463395/Batman_and_Joker_Surf%2527s_Up_2-Pack_Vinyl_Art_Toys_a7732d0e-4deb-4956-9a77-64bc3c367a96_large.jpg",
+    "exclusiveRetailer": "Funko FYE"
   },
   {
     "upc": "889698115704",
@@ -38183,18 +38003,6 @@
     "seriesNumber": "#69",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/460349/Batman_%2528Thrillkiller%2529_Vinyl_Art_Toys_599532ed-7fc2-47b2-9ac2-bf3b6c2396b6_large.jpg",
     "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698119832",
-    "handle": "batman-&amp;-joker-surf's-up-2-pack",
-    "name": "Batman &amp; Joker Surf's Up 2-Pack",
-    "franchise": "Pop! Heroes",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Heroes",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463395/Batman_and_Joker_Surf%2527s_Up_2-Pack_Vinyl_Art_Toys_a7732d0e-4deb-4956-9a77-64bc3c367a96_large.jpg",
-    "exclusiveRetailer": "Funko FYE"
   },
   {
     "upc": "889698429856",
@@ -40892,6 +40700,18 @@
     "exclusiveRetailer": "Funko Fugitive Toys"
   },
   {
+    "upc": "889698143554",
+    "handle": "wonder-woman-&amp;-steve-trevor-2-pack",
+    "name": "Wonder Woman &amp; Steve Trevor (2-PacK)",
+    "franchise": "Pop! Heroes",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Heroes",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463758/Wonder_Woman_and_Steve_Trevor_%25282-PacK%2529_Vinyl_Art_Toys_446103ab-de5e-4b02-845c-5549cb90a776_large.jpg",
+    "exclusiveRetailer": "Funko FYE"
+  },
+  {
     "upc": "889698125437",
     "handle": "wonder-woman-amazon",
     "name": "Wonder Woman (Amazon)",
@@ -41110,18 +40930,6 @@
     "seriesNumber": "#8",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/520068/Wonder_Woman_%2528Silhouette%2529_Vinyl_Art_Toys_ccfca984-db09-4809-83e1-f34cc5d18390_large.jpg",
     "exclusiveRetailer": "Funko EE"
-  },
-  {
-    "upc": "889698143554",
-    "handle": "wonder-woman-&amp;-steve-trevor-2-pack",
-    "name": "Wonder Woman &amp; Steve Trevor (2-PacK)",
-    "franchise": "Pop! Heroes",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Heroes",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463758/Wonder_Woman_and_Steve_Trevor_%25282-PacK%2529_Vinyl_Art_Toys_446103ab-de5e-4b02-845c-5549cb90a776_large.jpg",
-    "exclusiveRetailer": "Funko FYE"
   },
   {
     "upc": "889698473736",
@@ -42654,31 +42462,6 @@
     "category": "Pop! Television",
     "seriesNumber": "#372",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/462648/B.A._Baracus_Vinyl_Art_Toys_ee04dd78-e375-489a-8fc3-4f859b944880_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "830395031422",
-    "handle": "barney-stinson",
-    "name": "Barney Stinson",
-    "franchise": "Pop! Television",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Television",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/836490/Barney_Stinson_Vinyl_Art_Toys_aeebab94-2b6c-4fd5-9e66-a9bc8f3965d0_large.JPG",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698338769",
-    "handle": "bartman",
-    "name": "Bartman",
-    "franchise": "Pop! Television",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Television",
-    "seriesNumber": "#503",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/709495/Bartman_Vinyl_Art_Toys_1523a16c-4dce-4f70-b730-ed832483228c.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -44485,6 +44268,19 @@
     "exclusiveRetailer": "Funko Amazon"
   },
   {
+    "upc": "889698243636",
+    "handle": "dustin-&amp;-dart",
+    "name": "Dustin &amp; Dart",
+    "franchise": "Pop! Television",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Television",
+    "seriesNumber": "#593",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/533768/Dustin_and_Dart_Vinyl_Art_Toys_1ecc945e-9eab-4dba-bb96-d021ab74d1f5_large.jpg",
+    "exclusiveRetailer": "Funko Hot Topic"
+  },
+  {
     "upc": "889698385329",
     "handle": "dustin-camp",
     "name": "Dustin (Camp)",
@@ -44509,19 +44305,6 @@
     "seriesNumber": "#804",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/724048/Dustin_%2528Camp%2529_%2528Gray_Tee%2529_Vinyl_Art_Toys_47ec5e3a-a390-4bf3-8049-d93be5a80e2a_large.jpg",
     "exclusiveRetailer": "Funko Walmart"
-  },
-  {
-    "upc": "889698243636",
-    "handle": "dustin-&amp;-dart",
-    "name": "Dustin &amp; Dart",
-    "franchise": "Pop! Television",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Television",
-    "seriesNumber": "#593",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/533768/Dustin_and_Dart_Vinyl_Art_Toys_1ecc945e-9eab-4dba-bb96-d021ab74d1f5_large.jpg",
-    "exclusiveRetailer": "Funko Hot Topic"
   },
   {
     "upc": "889698484992",
@@ -44642,8 +44425,8 @@
   },
   {
     "upc": "889698363624",
-    "handle": "el-chapulín-colorado",
-    "name": "El Chapulín Colorado",
+    "handle": "el-chapul\u00edn-colorado",
+    "name": "El Chapul\u00edn Colorado",
     "franchise": "Pop! Television",
     "schemaVersion": 1,
     "source": "USER_SCAN",
@@ -46999,19 +46782,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698034890",
-    "handle": "leonard-hofstadter-#74-star-trek,-transporting-[2013-sdcc]",
-    "name": "Leonard Hofstadter #74 (Star Trek, Transporting) [2013 SDCC]",
-    "franchise": "Pop! Television",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Television",
-    "seriesNumber": "#74",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/861903/Leonard_Hofstadter_%2528Star_Trek%2529_%2528Transporting%2529_Vinyl_Art_Toys_906b7092-146c-425b-9d8d-8672b0685af7.jpeg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "830395035031",
     "handle": "leonard-hofstadter-#74-star-trek",
     "name": "Leonard Hofstadter #74 (Star Trek)",
@@ -47022,6 +46792,19 @@
     "category": "Pop! Television",
     "seriesNumber": "#74",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/861923/Leonard_Hofstadter_%2528Star_Trek%2529_Vinyl_Art_Toys_81fbfa58-3a5c-419d-9163-d358a4be01c8.jpeg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698034890",
+    "handle": "leonard-hofstadter-#74-star-trek,-transporting-[2013-sdcc]",
+    "name": "Leonard Hofstadter #74 (Star Trek, Transporting) [2013 SDCC]",
+    "franchise": "Pop! Television",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Television",
+    "seriesNumber": "#74",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/861903/Leonard_Hofstadter_%2528Star_Trek%2529_%2528Transporting%2529_Vinyl_Art_Toys_906b7092-146c-425b-9d8d-8672b0685af7.jpeg",
     "exclusiveRetailer": ""
   },
   {
@@ -48217,6 +48000,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698215343",
+    "handle": "negan-&amp;-carl-grimes-2-pack",
+    "name": "Negan &amp; Carl Grimes (2-Pack)",
+    "franchise": "Pop! Television",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Television",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/583081/Negan_and_Carl_Grimes_%25282-Pack%2529_Vinyl_Art_Toys_Sets_4a359c54-c696-4401-a305-70a984ce7a89_large.jpg",
+    "exclusiveRetailer": "Funko BAM"
+  },
+  {
     "upc": "889698133012",
     "handle": "negan-bloody",
     "name": "Negan (Bloody)",
@@ -48267,18 +48062,6 @@
     "seriesNumber": "#573",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/890671/Negan_%2528Clean_Shaven%2529_%2528Black_and_White%2529_Vinyl_Art_Toys_bdaa29a8-4381-4b7a-ba37-01c84a09d70c_large.png",
     "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698215343",
-    "handle": "negan-&amp;-carl-grimes-2-pack",
-    "name": "Negan &amp; Carl Grimes (2-Pack)",
-    "franchise": "Pop! Television",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Television",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/583081/Negan_and_Carl_Grimes_%25282-Pack%2529_Vinyl_Art_Toys_Sets_4a359c54-c696-4401-a305-70a984ce7a89_large.jpg",
-    "exclusiveRetailer": "Funko BAM"
   },
   {
     "upc": "889698321754",
@@ -48398,19 +48181,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "696571958514",
-    "handle": "olivia-moore-safety-glasses,-signed-by-rose-mciver",
-    "name": "Olivia Moore (Safety Glasses, Signed by Rose McIver)",
-    "franchise": "Pop! Television",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Television",
-    "seriesNumber": "#345",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/872510/Olivia_Moore_%2528Safety_Glasses%252C_Signed_by_Rose_McIver%2529_Vinyl_Art_Toys_2f733480-b691-4266-a0e3-ab6abe7635ea_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "849803095178",
     "handle": "olivia-moore-safety-glasses",
     "name": "Olivia Moore (Safety Glasses)",
@@ -48421,6 +48191,19 @@
     "category": "Pop! Television",
     "seriesNumber": "#345",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463184/Olivia_Moore_%2528Safety_Glasses%2529_Vinyl_Art_Toys_feba6eb0-bf09-492e-a82e-16604c10bbd8_large.jpeg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "696571958514",
+    "handle": "olivia-moore-safety-glasses,-signed-by-rose-mciver",
+    "name": "Olivia Moore (Safety Glasses, Signed by Rose McIver)",
+    "franchise": "Pop! Television",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Television",
+    "seriesNumber": "#345",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/872510/Olivia_Moore_%2528Safety_Glasses%252C_Signed_by_Rose_McIver%2529_Vinyl_Art_Toys_2f733480-b691-4266-a0e3-ab6abe7635ea_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -48731,19 +48514,6 @@
     "contributedAt": "2026-06-12",
     "category": "Pop! Television",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/459901/Plex_Vinyl_Art_Toys_7c454be1-fbf5-4953-a0e4-d61912d881ca_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698359115",
-    "handle": "po",
-    "name": "Po",
-    "franchise": "Pop! Television",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Television",
-    "seriesNumber": "#747",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/609359/Po_Vinyl_Art_Toys_3044870c-3186-4fbc-9591-f4f946378cdf_large.png",
     "exclusiveRetailer": ""
   },
   {
@@ -49655,6 +49425,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "849803050474",
+    "handle": "sam-&amp;-dean",
+    "name": "Sam &amp; Dean",
+    "franchise": "Pop! Television",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Television",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/460330/Sam_and_Dean_Vinyl_Art_Toys_afa0dbd9-dc3f-48a1-bd39-14e65626029f_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "849803043070",
     "handle": "sam-bloody",
     "name": "Sam (Bloody)",
@@ -49678,18 +49460,6 @@
     "category": "Pop! Television",
     "seriesNumber": "#93",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/457433/Sam_%2528Bloody%2529_%2528Metallic%2529_Vinyl_Art_Toys_3fcefb19-dd89-4a64-a98d-42e59073ebbf_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "849803050474",
-    "handle": "sam-&amp;-dean",
-    "name": "Sam &amp; Dean",
-    "franchise": "Pop! Television",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Television",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/460330/Sam_and_Dean_Vinyl_Art_Toys_afa0dbd9-dc3f-48a1-bd39-14e65626029f_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -49927,19 +49697,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698385800",
-    "handle": "sheldon-cooper-#776-vulcan-salute",
-    "name": "Sheldon Cooper (Vulcan Salute)",
-    "franchise": "Pop! Television",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Television",
-    "seriesNumber": "#776",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/860462/Sheldon_Cooper_%2528Vulcan_Salute%2529_Vinyl_Art_Toys_cb741e0d-6c0c-4dfc-9866-9e27ff084e28.jpeg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "830395035024",
     "handle": "sheldon-cooper-#73-star-trek",
     "name": "Sheldon Cooper #73 (Star Trek)",
@@ -49950,6 +49707,19 @@
     "category": "Pop! Television",
     "seriesNumber": "#73",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/860466/Sheldon_Cooper_%2528Star_Trek%2529_Vinyl_Art_Toys_550fb785-a852-4814-9a02-41b76d04fa56.jpeg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698385800",
+    "handle": "sheldon-cooper-#776-vulcan-salute",
+    "name": "Sheldon Cooper (Vulcan Salute)",
+    "franchise": "Pop! Television",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Television",
+    "seriesNumber": "#776",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/860462/Sheldon_Cooper_%2528Vulcan_Salute%2529_Vinyl_Art_Toys_cb741e0d-6c0c-4dfc-9866-9e27ff084e28.jpeg",
     "exclusiveRetailer": ""
   },
   {
@@ -51152,8 +50922,8 @@
   },
   {
     "upc": "849803039462",
-    "handle": "tobias-fünke",
-    "name": "Tobias Fünke",
+    "handle": "tobias-f\u00fcnke",
+    "name": "Tobias F\u00fcnke",
     "franchise": "Pop! Television",
     "schemaVersion": 1,
     "source": "USER_SCAN",
@@ -53899,18 +53669,6 @@
     "exclusiveRetailer": "Funko Hot Topic"
   },
   {
-    "upc": "849803047061",
-    "handle": "ariel-holiday",
-    "name": "Ariel (Holiday)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/460270/Ariel_%2528Holiday%2529_Vinyl_Art_Toys_94757741-8c65-417b-a567-e043f0e2f81c_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "849803035969",
     "handle": "ariel-&amp;-ursula",
     "name": "Ariel &amp; Ursula",
@@ -53921,6 +53679,18 @@
     "category": "Pop! Vinyl",
     "seriesNumber": "#8",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/458843/Ariel_and_Ursula_Vinyl_Art_Toys_05f04100-f966-43ba-810a-5542a9daf519_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "849803047061",
+    "handle": "ariel-holiday",
+    "name": "Ariel (Holiday)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/460270/Ariel_%2528Holiday%2529_Vinyl_Art_Toys_94757741-8c65-417b-a567-e043f0e2f81c_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -54752,110 +54522,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698133210",
-    "handle": "barb-[spring-convention]",
-    "name": "Barb [Spring Convention]",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#427",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/566710/Barb_%255BSpring_Convention%255D_Vinyl_Art_Toys_953c2ddf-57d5-4018-96d1-1127f09f9554_large.jpg",
-    "exclusiveRetailer": "Funko GameStop"
-  },
-  {
-    "upc": "889698491686",
-    "handle": "barbara-maitland-transformed",
-    "name": "Barbara Maitland (Transformed)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#993",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/803527/Barbara_Maitland_%2528Transformed%2529_Vinyl_Art_Toys_c2372fd9-e940-43b1-a939-808dbf10b731_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698439602",
-    "handle": "barkingham",
-    "name": "Barkingham",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#1",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/852468/Barkingham_Vinyl_Art_Toys_1831d46c-f0e1-4462-8d1f-68fcd89151f7.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698538602",
-    "handle": "barney-rubble-with-cocoa-pebbles",
-    "name": "Barney Rubble with Cocoa Pebbles",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#120",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/884184/Barney_Rubble_with_Cocao_Pebbles_Vinyl_Art_Toys_49f89644-1d96-4250-b104-01dcf1b55df1.JPG",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698516068",
-    "handle": "baron-harkonnen",
-    "name": "Baron Harkonnen",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#1028",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/850004/Baron_Harkonnen_Vinyl_Art_Toys_519712a9-7b56-4720-8012-ce40db5e8cd6.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "645889109002",
-    "handle": "barry-sanders",
-    "name": "Barry Sanders",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/583178/Barry_Sanders_Vinyl_Art_Toys_63a03f2b-ff0f-402c-a22f-307061bc3f42_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698333092",
-    "handle": "bart-starr",
-    "name": "Bart Starr",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#116",
-    "retailPrice": 7.5,
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/592637/Bart_Starr_Vinyl_Art_Toys_ac1399f5-2299-4183-80eb-dc0da32e8ea2_large.jpeg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698334006",
-    "handle": "bart-starr-black-&amp;-white",
-    "name": "Bart Starr (Black &amp; White)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#116",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/592638/Bart_Starr_%2528Black_and_White%2529_Vinyl_Art_Toys_dc8f9df6-8d5b-49df-9fe0-9fd70d2ac8d9_large.jpeg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "889698447867",
     "handle": "baseball-fury-green",
     "name": "Baseball Fury (Green)",
@@ -55085,6 +54751,18 @@
     "exclusiveRetailer": "Funko Target"
   },
   {
+    "upc": "889698232791",
+    "handle": "bb-8-&amp;-bb-9e-2-pack",
+    "name": "BB-8 &amp; BB-9E (2-Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/498661/BB-8_and_BB-9E_%25282-Pack%2529_Vinyl_Art_Toys_8ef19418-f6d0-4c6e-a275-8bcb4037f374_large.jpg",
+    "exclusiveRetailer": "Funko Best Buy"
+  },
+  {
     "upc": "889698144780",
     "handle": "bb-8-giants",
     "name": "BB-8 (Giants)",
@@ -55122,18 +54800,6 @@
     "seriesNumber": "#196",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/498636/BB-8_%2528The_Last_Jedi%2529_Vinyl_Art_Toys_8bab47e7-d01f-4b5b-be4e-53887f44f73c_large.jpg",
     "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698232791",
-    "handle": "bb-8-&amp;-bb-9e-2-pack",
-    "name": "BB-8 &amp; BB-9E (2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/498661/BB-8_and_BB-9E_%25282-Pack%2529_Vinyl_Art_Toys_8ef19418-f6d0-4c6e-a275-8bcb4037f374_large.jpg",
-    "exclusiveRetailer": "Funko Best Buy"
   },
   {
     "upc": "889698230278",
@@ -57982,6 +57648,18 @@
     "exclusiveRetailer": "Funko GameStop"
   },
   {
+    "upc": "849803091590",
+    "handle": "captain-america-&amp;-iron-man-civil-war-(2-pack)",
+    "name": "Captain America &amp; Iron Man (Civil War) (2-Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/462364/Captain_America_and_Iron_Man_%2528Civil_War%2529_%25282-Pack%2529_Vinyl_Art_Toys_57190128-fa82-4735-98ef-2e9d60903c15_large.jpg",
+    "exclusiveRetailer": "Funko FYE"
+  },
+  {
     "upc": "889698477574",
     "handle": "captain-america-avengers-game",
     "name": "Captain America (Avengers Game)",
@@ -58201,18 +57879,6 @@
     "seriesNumber": "#219",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/510823/Captain_America_%2528WWII%2529_%255BSpring_Convention%255D_Vinyl_Art_Toys_5ebb2f42-fcaf-40c3-8452-1372d0ed6b35_large.jpg",
     "exclusiveRetailer": "Funko Hot Topic"
-  },
-  {
-    "upc": "849803091590",
-    "handle": "captain-america-&amp;-iron-man-civil-war-(2-pack)",
-    "name": "Captain America &amp; Iron Man (Civil War) (2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/462364/Captain_America_and_Iron_Man_%2528Civil_War%2529_%25282-Pack%2529_Vinyl_Art_Toys_57190128-fa82-4735-98ef-2e9d60903c15_large.jpg",
-    "exclusiveRetailer": "Funko FYE"
   },
   {
     "upc": "889698355612",
@@ -61039,18 +60705,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "849803057817",
-    "handle": "daenerys-mhysa-&amp;-drogon-(metallic)",
-    "name": "Daenerys (Mhysa) &amp; Drogon (Metallic)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/460491/Daenerys_%2528Mhysa%2529_and_Drogon_%2528Metallic%2529_Vinyl_Art_Toys_e1f01c34-0d0a-4b6a-a7f7-03f499228964_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "849803072353",
     "handle": "daenerys-&amp;-drogon",
     "name": "Daenerys &amp; Drogon",
@@ -61074,6 +60728,18 @@
     "category": "Pop! Vinyl",
     "seriesNumber": "#68",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/728529/Daenerys_with_Drogon_%2528Flames%2529_Vinyl_Art_Toys_cc399b07-8439-46e1-ad7b-9e6cf939eb5e.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "849803057817",
+    "handle": "daenerys-mhysa-&amp;-drogon-(metallic)",
+    "name": "Daenerys (Mhysa) &amp; Drogon (Metallic)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/460491/Daenerys_%2528Mhysa%2529_and_Drogon_%2528Metallic%2529_Vinyl_Art_Toys_e1f01c34-0d0a-4b6a-a7f7-03f499228964_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -62681,19 +62347,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698147613",
-    "handle": "dj",
-    "name": "DJ",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#207",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/498655/DJ_Vinyl_Art_Toys_32f8d8aa-51bc-4303-85db-9eb74c7003a9_large.jpg",
-    "exclusiveRetailer": "Funko GameStop"
-  },
-  {
     "upc": "889698376273",
     "handle": "dj-r3x",
     "name": "DJ R3X",
@@ -62785,19 +62438,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698469159",
-    "handle": "doc-2015",
-    "name": "Doc (2015)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#960",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/791258/Doc_%25282015%2529_Vinyl_Art_Toys_2aa244cb-3fb7-43cf-b7d3-eee4e6d00800_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "889698496858",
     "handle": "doc-&amp;-einstein-signed-by-christopher-lloyd",
     "name": "Doc &amp; Einstein (Signed by Christopher Lloyd)",
@@ -62809,6 +62449,19 @@
     "seriesNumber": "#972",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/883482/Doc_and_Einstein_%2528Signed_by_Christopher_Lloyd%2529_Vinyl_Art_Toys_6b606c7c-dfaa-44c5-b1e9-e81ad45e0020.jpg",
     "exclusiveRetailer": "Funko Walmart"
+  },
+  {
+    "upc": "889698469159",
+    "handle": "doc-2015",
+    "name": "Doc (2015)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "seriesNumber": "#960",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/791258/Doc_%25282015%2529_Vinyl_Art_Toys_2aa244cb-3fb7-43cf-b7d3-eee4e6d00800_large.jpg",
+    "exclusiveRetailer": ""
   },
   {
     "upc": "889698469104",
@@ -65512,57 +65165,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "849803093525",
-    "handle": "foolkiller",
-    "name": "Foolkiller",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#141",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/462370/Foolkiller_Vinyl_Art_Toys_540a8c22-90a6-4c86-bfa2-0b4ccd873d4c_large.jpg",
-    "exclusiveRetailer": "Funko Hot Topic"
-  },
-  {
-    "upc": "849803064044",
-    "handle": "football-freddy",
-    "name": "Football Freddy",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#35",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/456789/Football_Freddy_Vinyl_Art_Toys_394ba8e7-ab2c-4b9f-9e36-c44470e6f853_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "849803064037",
-    "handle": "football-freddy-blue",
-    "name": "Football Freddy (Blue)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#35",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/456800/Football_Freddy_%2528Blue%2529_Vinyl_Art_Toys_8e0e47b2-9be4-448c-a48d-478a43f4374a_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698293204",
-    "handle": "football-freddy-throwback",
-    "name": "Football Freddy (Throwback)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/561238/Football_Freddy_%2528Throwback%2529_Vinyl_Art_Toys_b4ebd31f-4585-47c6-9e4d-15c89cc76502_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "889698516044",
     "handle": "formal-paul-atreides",
     "name": "Formal Paul Atreides",
@@ -66456,19 +66058,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "849803064075",
-    "handle": "freddy-krueger-syringe-fingers",
-    "name": "Freddy Krueger (Syringe Fingers)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#224",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/461929/Freddy_Krueger_%2528Syringe_Fingers%2529_Vinyl_Art_Toys_04d3daf3-bef6-4fb4-8d57-822e2e666eb9_large.jpg",
-    "exclusiveRetailer": "Funko Hot Topic"
-  },
-  {
     "upc": "889698120012",
     "handle": "freddy-krueger-&amp;-jason-voorhees-2-pack",
     "name": "Freddy Krueger &amp; Jason Voorhees (2-Pack)",
@@ -66491,6 +66080,19 @@
     "category": "Pop! Vinyl",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463284/Freddy_Krueger_and_Jason_Voorhees_%2528Bloody%2529_%25282_Pack%2529_Vinyl_Art_Toys_59ebfa86-eca6-435b-8931-7988f05cc7e1_large.jpg",
     "exclusiveRetailer": "Funko BoxLunch"
+  },
+  {
+    "upc": "849803064075",
+    "handle": "freddy-krueger-syringe-fingers",
+    "name": "Freddy Krueger (Syringe Fingers)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "seriesNumber": "#224",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/461929/Freddy_Krueger_%2528Syringe_Fingers%2529_Vinyl_Art_Toys_04d3daf3-bef6-4fb4-8d57-822e2e666eb9_large.jpg",
+    "exclusiveRetailer": "Funko Hot Topic"
   },
   {
     "upc": "889698107914",
@@ -68456,6 +68058,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698150965",
+    "handle": "groot-&amp;-rocket-vol.-2-(2-pack)",
+    "name": "Groot &amp; Rocket (Vol. 2) (2-Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/483479/Groot_and_Rocket_%2528Vol._2%2529_%25282-Pack%2529_Vinyl_Art_Toys_3608c015-3b8e-4134-a903-903b2b25a64e_large.jpg",
+    "exclusiveRetailer": "Funko FYE"
+  },
+  {
     "upc": "889698500944",
     "handle": "groot-18-inch",
     "name": "Groot (18-Inch)",
@@ -68623,18 +68237,6 @@
     "seriesNumber": "#399",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/592402/Groot_%2528with_Lights%2529_Vinyl_Art_Toys_7185f5fa-c85e-45e0-ae9d-6500b0f69673_large.jpg",
     "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698150965",
-    "handle": "groot-&amp;-rocket-vol.-2-(2-pack)",
-    "name": "Groot &amp; Rocket (Vol. 2) (2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/483479/Groot_and_Rocket_%2528Vol._2%2529_%25282-Pack%2529_Vinyl_Art_Toys_3608c015-3b8e-4134-a903-903b2b25a64e_large.jpg",
-    "exclusiveRetailer": "Funko FYE"
   },
   {
     "upc": "849803049140",
@@ -69000,6 +68602,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698467704",
+    "handle": "han-solo-&amp;-princess-leia-2-pack",
+    "name": "Han Solo &amp; Princess Leia (2-Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/767845/Han_Solo_and_Princess_Leia_%25282-Pack%2529_Vinyl_Art_Toys_72c63e83-446b-4a1f-9ab2-7d6009d3d65e_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698118415",
     "handle": "han-solo-action-pose-[galactic-convention]",
     "name": "Han Solo (Action Pose) [Galactic Convention]",
@@ -69101,18 +68715,6 @@
     "category": "Pop! Vinyl",
     "seriesNumber": "#03",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/460563/Han_Solo_%2528Vault_Edition%2529_Vinyl_Art_Toys_a17eab85-6314-4f14-b334-94943bffe371_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698467704",
-    "handle": "han-solo-&amp;-princess-leia-2-pack",
-    "name": "Han Solo &amp; Princess Leia (2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/767845/Han_Solo_and_Princess_Leia_%25282-Pack%2529_Vinyl_Art_Toys_72c63e83-446b-4a1f-9ab2-7d6009d3d65e_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -69505,6 +69107,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698120005",
+    "handle": "harry-potter-&amp;-lord-voldemort-2-pack",
+    "name": "Harry Potter &amp; Lord Voldemort (2-Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463324/Harry_Potter_and_Lord_Voldemort_%25282-Pack%2529_Vinyl_Art_Toys_39b5f9d7-d54d-4deb-9fef-0a3870b1afe9_large.jpg",
+    "exclusiveRetailer": "Funko FYE"
+  },
+  {
     "upc": "889698344241",
     "handle": "harry-potter-broken-arm",
     "name": "Harry Potter (Broken Arm)",
@@ -69632,18 +69246,6 @@
     "category": "Pop! Vinyl",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/775865/Harry_Potter_%2528with_Hedwig%2529_%252818-Inch%2529_Vinyl_Art_Toys_b6056881-4615-49b7-b484-8cc289645176_large.jpg",
     "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698120005",
-    "handle": "harry-potter-&amp;-lord-voldemort-2-pack",
-    "name": "Harry Potter &amp; Lord Voldemort (2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463324/Harry_Potter_and_Lord_Voldemort_%25282-Pack%2529_Vinyl_Art_Toys_39b5f9d7-d54d-4deb-9fef-0a3870b1afe9_large.jpg",
-    "exclusiveRetailer": "Funko FYE"
   },
   {
     "upc": "889698337885",
@@ -70241,6 +69843,19 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698293723",
+    "handle": "hercules-&amp;-pegasus",
+    "name": "Hercules &amp; Pegasus",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "seriesNumber": "#43",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/564178/Hercules_and_Pegasus_Vinyl_Art_Toys_9e778be1-3f7e-48d9-9d38-4d3fddcf8dd1_large.jpeg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698293259",
     "handle": "hercules-astro-boy",
     "name": "Hercules (Astro Boy)",
@@ -70254,17 +69869,16 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698293723",
-    "handle": "hercules-&amp;-pegasus",
-    "name": "Hercules &amp; Pegasus",
+    "upc": "889698447591",
+    "handle": "hermione-granger-&amp;-viktor-krum-yule-2-pack",
+    "name": "Hermione Granger &amp; Viktor Krum (Yule 2-Pack)",
     "franchise": "Pop! Vinyl",
     "schemaVersion": 1,
     "source": "USER_SCAN",
     "contributedAt": "2026-06-12",
     "category": "Pop! Vinyl",
-    "seriesNumber": "#43",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/564178/Hercules_and_Pegasus_Vinyl_Art_Toys_9e778be1-3f7e-48d9-9d38-4d3fddcf8dd1_large.jpeg",
-    "exclusiveRetailer": ""
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/766111/Hermione_Granger_and_Viktor_Krum_%2528Yule_2-Pack%2529_Vinyl_Art_Toys_00835140-cfc0-40c5-8227-421b497f9cfe_large.jpg",
+    "exclusiveRetailer": "Funko Barnes & Noble"
   },
   {
     "upc": "889698355094",
@@ -70291,18 +69905,6 @@
     "seriesNumber": "#80",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/603619/Hermione_Granger_%2528Brewing_Potion%2529_Vinyl_Art_Toys_2fd36513-b1fd-4604-9101-4c1874415438_large.jpg",
     "exclusiveRetailer": "Funko Hot Topic"
-  },
-  {
-    "upc": "889698447591",
-    "handle": "hermione-granger-&amp;-viktor-krum-yule-2-pack",
-    "name": "Hermione Granger &amp; Viktor Krum (Yule 2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/766111/Hermione_Granger_and_Viktor_Krum_%2528Yule_2-Pack%2529_Vinyl_Art_Toys_00835140-cfc0-40c5-8227-421b497f9cfe_large.jpg",
-    "exclusiveRetailer": "Funko Barnes & Noble"
   },
   {
     "upc": "889698480659",
@@ -70705,6 +70307,18 @@
     "exclusiveRetailer": "Funko Hot Topic"
   },
   {
+    "upc": "889698407007",
+    "handle": "hulk-&amp;-thanos-2-pack",
+    "name": "Hulk &amp; Thanos (2-Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/719232/Hulk_and_Thanos_%25282-Pack%2529_Vinyl_Art_Toys_c813844c-a574-462f-b04d-700afa218b42_large.jpg",
+    "exclusiveRetailer": "Funko Barnes & Noble"
+  },
+  {
     "upc": "889698477598",
     "handle": "hulk-avengers-game",
     "name": "Hulk (Avengers Game)",
@@ -70848,18 +70462,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698407007",
-    "handle": "hulk-&amp;-thanos-2-pack",
-    "name": "Hulk &amp; Thanos (2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/719232/Hulk_and_Thanos_%25282-Pack%2529_Vinyl_Art_Toys_c813844c-a574-462f-b04d-700afa218b42_large.jpg",
-    "exclusiveRetailer": "Funko Barnes & Noble"
-  },
-  {
     "upc": "889698272971",
     "handle": "hulk-busting-out-of-hulkbuster",
     "name": "Hulk Busting Out of Hulkbuster",
@@ -70873,6 +70475,18 @@
     "exclusiveRetailer": "Funko GameStop"
   },
   {
+    "upc": "889698517201",
+    "handle": "hulk-hogan-&amp;-mr.-t-2-pack",
+    "name": "Hulk Hogan &amp; Mr. T (2-Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/847415/Hulk_Hogan_and_Mr._T_%25282-Pack%2529_Vinyl_Art_Toys_bbda46a1-9902-48eb-9d95-75ffb7dd4a01_large.JPG",
+    "exclusiveRetailer": "Funko Amazon"
+  },
+  {
     "upc": "849803046224",
     "handle": "hulk-hogan-yellow-shirt",
     "name": "Hulk Hogan (Yellow Shirt)",
@@ -70884,18 +70498,6 @@
     "seriesNumber": "#11",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/460233/Hulk_Hogan_%2528Yellow_Shirt%2529_Vinyl_Art_Toys_31934feb-1add-47ae-b771-bdb7c4b44df5_large.jpg",
     "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698517201",
-    "handle": "hulk-hogan-&amp;-mr.-t-2-pack",
-    "name": "Hulk Hogan &amp; Mr. T (2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/847415/Hulk_Hogan_and_Mr._T_%25282-Pack%2529_Vinyl_Art_Toys_bbda46a1-9902-48eb-9d95-75ffb7dd4a01_large.JPG",
-    "exclusiveRetailer": "Funko Amazon"
   },
   {
     "upc": "889698348836",
@@ -72375,6 +71977,19 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "830395022925",
+    "handle": "jason-voorhees-#01-autographed-by-ari-lehman",
+    "name": "Jason Voorhees #01 (Autographed by Ari Lehman)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "seriesNumber": "#01",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/870697/Jason_Voorhees_%252301_%2528Autographed_by_Ari_Lehman%2529_Vinyl_Art_Toys_69251fba-bed3-477d-b781-9fb25087ea68_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "830395021089",
     "handle": "jason-voorhees-glow-in-the-dark",
     "name": "Jason Voorhees (Glow in the Dark)",
@@ -72398,19 +72013,6 @@
     "seriesNumber": "#361",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/479753/Jason_Voorhees_%2528Part_V_-_Blue%2529_Vinyl_Art_Toys_72e6d627-4fa8-44fa-bde7-350e7bacb50e_large.jpg",
     "exclusiveRetailer": "Funko Hot Topic"
-  },
-  {
-    "upc": "830395022925",
-    "handle": "jason-voorhees-#01-autographed-by-ari-lehman",
-    "name": "Jason Voorhees #01 (Autographed by Ari Lehman)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#01",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/870697/Jason_Voorhees_%252301_%2528Autographed_by_Ari_Lehman%2529_Vinyl_Art_Toys_69251fba-bed3-477d-b781-9fb25087ea68_large.jpg",
-    "exclusiveRetailer": ""
   },
   {
     "upc": "889698443180",
@@ -73605,6 +73207,31 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698214971",
+    "handle": "jon-snow-&amp;-bran-stark-2-pack",
+    "name": "Jon Snow &amp; Bran Stark (2-Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/479283/Jon_Snow_and_Bran_Stark_%25282-Pack%2529_Vinyl_Art_Toys_945b10eb-d828-4ea5-b513-257818443012_large.jpg",
+    "exclusiveRetailer": "Funko BAM"
+  },
+  {
+    "upc": "889698444484",
+    "handle": "jon-snow-&amp;-rhaegal",
+    "name": "Jon Snow &amp; Rhaegal",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "seriesNumber": "#67",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/762652/Jon_Snow_and_Rhaegal_Vinyl_Art_Toys_bcf57231-d3ab-48ed-bffc-1fe36ef62bce_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "849803101329",
     "handle": "jon-snow-bloody",
     "name": "Jon Snow (Bloody)",
@@ -73680,31 +73307,6 @@
     "category": "Pop! Vinyl",
     "seriesNumber": "#80",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/762648/Jon_Snow_%2528Season_8%2529_Vinyl_Art_Toys_c02a21a1-8faf-4880-b6df-c508d98b2673_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698214971",
-    "handle": "jon-snow-&amp;-bran-stark-2-pack",
-    "name": "Jon Snow &amp; Bran Stark (2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/479283/Jon_Snow_and_Bran_Stark_%25282-Pack%2529_Vinyl_Art_Toys_945b10eb-d828-4ea5-b513-257818443012_large.jpg",
-    "exclusiveRetailer": "Funko BAM"
-  },
-  {
-    "upc": "889698444484",
-    "handle": "jon-snow-&amp;-rhaegal",
-    "name": "Jon Snow &amp; Rhaegal",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#67",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/762652/Jon_Snow_and_Rhaegal_Vinyl_Art_Toys_bcf57231-d3ab-48ed-bffc-1fe36ef62bce_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -75327,19 +74929,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698329798",
-    "handle": "kubo-in-armor",
-    "name": "Kubo (in Armor)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#651",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/587158/Kubo_%2528in_Armor%2529_Vinyl_Art_Toys_696cabba-cea9-44de-8a98-bad87c77eb2e_large.jpeg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "889698328272",
     "handle": "kubo-&amp;-little-hanzo",
     "name": "Kubo &amp; Little Hanzo",
@@ -75350,6 +74939,19 @@
     "category": "Pop! Vinyl",
     "seriesNumber": "#650",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/587157/Kubo_and_Little_Hanzo_Vinyl_Art_Toys_aeffdd01-7162-41fd-8055-c465dce4bab2_large.jpeg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698329798",
+    "handle": "kubo-in-armor",
+    "name": "Kubo (in Armor)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "seriesNumber": "#651",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/587158/Kubo_%2528in_Armor%2529_Vinyl_Art_Toys_696cabba-cea9-44de-8a98-bad87c77eb2e_large.jpeg",
     "exclusiveRetailer": ""
   },
   {
@@ -75587,6 +75189,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698450355",
+    "handle": "kylo-ren-supreme-leader-&amp;-rey-2-pack",
+    "name": "Kylo Ren Supreme Leader &amp; Rey (2-Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/755219/Kylo_Ren_Supreme_Leader_and_Rey_%25282-Pack%2529_Vinyl_Art_Toys_b3ca43bb-bb87-42aa-85b8-cab0d9e39a84_large.jpg",
+    "exclusiveRetailer": "Funko Barnes & Noble"
+  },
+  {
     "upc": "889698472463",
     "handle": "kylo-ren-supreme-leader-10-inch-(glow-in-the-dark)",
     "name": "Kylo Ren Supreme Leader (10-Inch) (Glow in the Dark)",
@@ -75611,18 +75225,6 @@
     "seriesNumber": "#308",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/755214/Kylo_Ren_Supreme_Leader_%2528Lights_and_Sound%2529_Vinyl_Art_Toys_417a70ec-92a8-4b2e-a32f-d9957aeb6477_large.jpg",
     "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698450355",
-    "handle": "kylo-ren-supreme-leader-&amp;-rey-2-pack",
-    "name": "Kylo Ren Supreme Leader &amp; Rey (2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/755219/Kylo_Ren_Supreme_Leader_and_Rey_%25282-Pack%2529_Vinyl_Art_Toys_b3ca43bb-bb87-42aa-85b8-cab0d9e39a84_large.jpg",
-    "exclusiveRetailer": "Funko Barnes & Noble"
   },
   {
     "upc": "889698201544",
@@ -77194,6 +76796,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "673419291835",
+    "handle": "luke-skywalker-&amp;-yoda",
+    "name": "Luke Skywalker &amp; Yoda",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/767842/Luke_Skywalker_and_Yoda_Vinyl_Art_Toys_9cdeddca-abf5-4e34-8e9b-ea6dc41f6bb2_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "849803087371",
     "handle": "luke-skywalker-bespin",
     "name": "Luke Skywalker (Bespin)",
@@ -77295,18 +76909,6 @@
     "category": "Pop! Vinyl",
     "seriesNumber": "#266",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/577412/Luke_Skywalker_%2528The_Last_Jedi%2529_%2528Final_Battle%2529_Vinyl_Art_Toys_89890e6b-1460-4c5d-8559-c1e840063079_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "673419291835",
-    "handle": "luke-skywalker-&amp;-yoda",
-    "name": "Luke Skywalker &amp; Yoda",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/767842/Luke_Skywalker_and_Yoda_Vinyl_Art_Toys_9cdeddca-abf5-4e34-8e9b-ea6dc41f6bb2_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -77660,18 +77262,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "849803047092",
-    "handle": "maleficent-holiday",
-    "name": "Maleficent (Holiday)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/460263/Maleficent_%2528Holiday%2529_Vinyl_Art_Toys_2bee0d8e-de13-4e38-860a-a876c5e9575f_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "830395028040",
     "handle": "maleficent-&amp;-evil-queen",
     "name": "Maleficent &amp; Evil Queen",
@@ -77682,6 +77272,18 @@
     "category": "Pop! Vinyl",
     "seriesNumber": "#4",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/458840/Maleficent_and_Evil_Queen_Vinyl_Art_Toys_1e45ecc3-fad8-4c07-8412-073bf0553714_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "849803047092",
+    "handle": "maleficent-holiday",
+    "name": "Maleficent (Holiday)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/460263/Maleficent_%2528Holiday%2529_Vinyl_Art_Toys_2bee0d8e-de13-4e38-860a-a876c5e9575f_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -79837,19 +79439,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698398145",
-    "handle": "mj",
-    "name": "MJ",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#471",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/721916/MJ_Vinyl_Art_Toys_efc06170-83c3-41ae-a2db-4ae8f752a1e8_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "849803059798",
     "handle": "moametal",
     "name": "Moametal",
@@ -81068,19 +80657,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698330626",
-    "handle": "newt-scamander-in-suitcase",
-    "name": "Newt Scamander (In Suitcase)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#23",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/592417/Newt_Scamander_%2528In_Suitcase%2529_Vinyl_Art_Toys_1744b6c7-4286-4c55-9175-06ffe8a3d7e7_large.jpeg",
-    "exclusiveRetailer": "Funko Barnes & Noble"
-  },
-  {
     "upc": "889698121491",
     "handle": "newt-scamander-&amp;-pickett",
     "name": "Newt Scamander &amp; Pickett",
@@ -81092,6 +80668,19 @@
     "seriesNumber": "#10",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/589919/Newt_Scamander_and_Pickett_Vinyl_Art_Toys_adb4b111-4832-4046-9d30-9423d9cb447b_large.jpg",
     "exclusiveRetailer": "Funko Hot Topic"
+  },
+  {
+    "upc": "889698330626",
+    "handle": "newt-scamander-in-suitcase",
+    "name": "Newt Scamander (In Suitcase)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "seriesNumber": "#23",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/592417/Newt_Scamander_%2528In_Suitcase%2529_Vinyl_Art_Toys_1744b6c7-4286-4c55-9175-06ffe8a3d7e7_large.jpeg",
+    "exclusiveRetailer": "Funko Barnes & Noble"
   },
   {
     "upc": "889698398275",
@@ -81315,6 +80904,19 @@
     "exclusiveRetailer": "Funko Hot Topic"
   },
   {
+    "upc": "889698286718",
+    "handle": "night-king-&amp;-icy-viserion",
+    "name": "Night King &amp; Icy Viserion",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "seriesNumber": "#58",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/582304/Night_King_and_Icy_Viserion_Vinyl_Art_Toys_9922f7af-b689-4c20-bba9-9ab567086968_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698448239",
     "handle": "night-king-crystal",
     "name": "Night King (Crystal)",
@@ -81364,19 +80966,6 @@
     "category": "Pop! Vinyl",
     "seriesNumber": "#44",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/718760/Night_King_%2528Metallic%2529_Vinyl_Art_Toys_b28c91c5-67c6-42a9-96ae-5782f140ce87_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698286718",
-    "handle": "night-king-&amp;-icy-viserion",
-    "name": "Night King &amp; Icy Viserion",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#58",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/582304/Night_King_and_Icy_Viserion_Vinyl_Art_Toys_9922f7af-b689-4c20-bba9-9ab567086968_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -86258,19 +85847,6 @@
     "exclusiveRetailer": ""
   },
   {
-    "upc": "889698378673",
-    "handle": "rm",
-    "name": "RM",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#106",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/709483/RM_Vinyl_Art_Toys_042cf0ed-9ece-4029-bdd8-747197545b42_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "889698332149",
     "handle": "roadhog-junkenstein's-monster",
     "name": "Roadhog (Junkenstein's Monster)",
@@ -86925,6 +86501,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698364379",
+    "handle": "rose-&amp;-jack-2-pack",
+    "name": "Rose &amp; Jack (2-Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/610622/Rose_and_Jack_%25282-Pack%2529_Vinyl_Art_Toys_ef4db903-32ad-455c-a922-2b429490e14a_large.jpeg",
+    "exclusiveRetailer": "Funko Target"
+  },
+  {
     "upc": "889698147651",
     "handle": "rose-disguise",
     "name": "Rose (Disguise)",
@@ -86949,18 +86537,6 @@
     "seriesNumber": "#316",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/767075/Rose_%2528Rise_of_Skywalker%2529_Vinyl_Art_Toys_0eb0f603-43b5-4e78-9d2b-a16a28697de1_large.jpg",
     "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698364379",
-    "handle": "rose-&amp;-jack-2-pack",
-    "name": "Rose &amp; Jack (2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/610622/Rose_and_Jack_%25282-Pack%2529_Vinyl_Art_Toys_ef4db903-32ad-455c-a922-2b429490e14a_large.jpeg",
-    "exclusiveRetailer": "Funko Target"
   },
   {
     "upc": "889698327251",
@@ -87911,6 +87487,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698228084",
+    "handle": "scorpion-&amp;-sub-zero-2-pack",
+    "name": "Scorpion &amp; Sub-Zero (2 Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/503300/Scorpion_and_Sub-Zero_%25282_Pack%2529_Vinyl_Art_Toys_7fce17e8-2c7a-42b3-9f8d-b4b21c31c4bc_large.jpg",
+    "exclusiveRetailer": "Funko GameStop"
+  },
+  {
     "upc": "889698451109",
     "handle": "scorpion-classic",
     "name": "Scorpion (Classic)",
@@ -87935,18 +87523,6 @@
     "seriesNumber": "#255",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/503297/Scorpion_%2528Flaming_Skull%2529_Vinyl_Art_Toys_436ca5b3-ad7d-4412-b183-5ec605ae995a_large.jpg",
     "exclusiveRetailer": "Funko Hot Topic"
-  },
-  {
-    "upc": "889698228084",
-    "handle": "scorpion-&amp;-sub-zero-2-pack",
-    "name": "Scorpion &amp; Sub-Zero (2 Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/503300/Scorpion_and_Sub-Zero_%25282_Pack%2529_Vinyl_Art_Toys_7fce17e8-2c7a-42b3-9f8d-b4b21c31c4bc_large.jpg",
-    "exclusiveRetailer": "Funko GameStop"
   },
   {
     "upc": "889698414005",
@@ -89631,19 +89207,6 @@
     "exclusiveRetailer": "Funko Walgreens"
   },
   {
-    "upc": "889698234559",
-    "handle": "spider-man---homecoming-upside-down",
-    "name": "Spider-Man - Homecoming (Upside Down)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#259",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/834529/Spider-Man_-_Homecoming_%2528Upside_Down%2529_Vinyl_Art_Toys_ca3500cb-8bc5-46a2-a13d-529e3c1d6a2a.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
     "upc": "889698258623",
     "handle": "spider-man-big-time-suit",
     "name": "Spider-Man (Big-Time Suit)",
@@ -89773,18 +89336,6 @@
     "exclusiveRetailer": "Funko Target"
   },
   {
-    "upc": "889698393522",
-    "handle": "spider-man-stealth-suit,-goggles-up",
-    "name": "Spider-Man (Stealth Suit, Goggles Up)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/722294/Spider-Man_%2528Stealth_Suit%252C_Goggles_Up%2529_Vinyl_Art_Toys_fcf14e8d-6df7-4744-a0e8-9b33d9c22397_large.jpg",
-    "exclusiveRetailer": "Funko Target"
-  },
-  {
     "upc": "889698125819",
     "handle": "spider-man-stealth-suit-(glow-in-the-dark)",
     "name": "Spider-Man (Stealth Suit) (Glow In The Dark)",
@@ -89796,6 +89347,18 @@
     "seriesNumber": "#195",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463391/Spider-Man_%2528Stealth_Suit%2529_%2528Glow_In_The_Dark%2529_Vinyl_Art_Toys_0e2ff141-029e-42ce-8644-8b0c0e781034_large.jpg",
     "exclusiveRetailer": "Funko Hot Topic"
+  },
+  {
+    "upc": "889698393522",
+    "handle": "spider-man-stealth-suit,-goggles-up",
+    "name": "Spider-Man (Stealth Suit, Goggles Up)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/722294/Spider-Man_%2528Stealth_Suit%252C_Goggles_Up%2529_Vinyl_Art_Toys_fcf14e8d-6df7-4744-a0e8-9b33d9c22397_large.jpg",
+    "exclusiveRetailer": "Funko Target"
   },
   {
     "upc": "849803037802",
@@ -89859,6 +89422,19 @@
     "category": "Pop! Vinyl",
     "seriesNumber": "#470",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/721915/Spider-Man_%2528Upgraded_Suit%2529_Vinyl_Art_Toys_8a39be10-5808-4213-8dd1-15dd11b81f67_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698234559",
+    "handle": "spider-man---homecoming-upside-down",
+    "name": "Spider-Man - Homecoming (Upside Down)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "seriesNumber": "#259",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/834529/Spider-Man_-_Homecoming_%2528Upside_Down%2529_Vinyl_Art_Toys_ca3500cb-8bc5-46a2-a13d-529e3c1d6a2a.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -91362,6 +90938,32 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698312868",
+    "handle": "t'challa-black-robe",
+    "name": "T'Challa (Black Robe)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "seriesNumber": "#351",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/702910/T%2527Challa_%2528Black_Robe%2529_Vinyl_Art_Toys_308f63df-2e13-4532-8b44-3ccb065d7870_large.jpeg",
+    "exclusiveRetailer": ""
+  },
+  {
+    "upc": "889698312875",
+    "handle": "t'challa-white-robe",
+    "name": "T'Challa (White Robe)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "seriesNumber": "#352",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/585667/T%2527Challa_%2528White_Robe%2529_Vinyl_Art_Toys_126be3c4-5a1c-4597-8096-8290dbb0177f_large.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "4897056201569",
     "handle": "t-51-power-armor",
     "name": "T-51 Power Armor",
@@ -91514,32 +91116,6 @@
     "category": "Pop! Vinyl",
     "seriesNumber": "#98",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/587490/T.J._Watt_Vinyl_Art_Toys_142e4e88-9732-45e6-9c20-c50eb0847a39_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698312868",
-    "handle": "t'challa-black-robe",
-    "name": "T'Challa (Black Robe)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#351",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/702910/T%2527Challa_%2528Black_Robe%2529_Vinyl_Art_Toys_308f63df-2e13-4532-8b44-3ccb065d7870_large.jpeg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698312875",
-    "handle": "t'challa-white-robe",
-    "name": "T'Challa (White Robe)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#352",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/585667/T%2527Challa_%2528White_Robe%2529_Vinyl_Art_Toys_126be3c4-5a1c-4597-8096-8290dbb0177f_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -92536,6 +92112,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698352710",
+    "handle": "the-grinch-&amp;-cindy-lou-who-2-pack",
+    "name": "The Grinch &amp; Cindy-Lou Who (2-Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/594430/The_Grinch_and_Cindy-Lou_Who_%25282-Pack%2529_Vinyl_Art_Toys_Sets_d8b83e2c-56db-4a8f-89dd-ff77e3468dff_large.jpeg",
+    "exclusiveRetailer": "Funko Barnes & Noble"
+  },
+  {
     "upc": "889698291538",
     "handle": "the-grinch-black-&amp;-white",
     "name": "The Grinch (Black &amp; White)",
@@ -92573,18 +92161,6 @@
     "seriesNumber": "#663",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/594427/The_Grinch_%2528Scarf%2529_Vinyl_Art_Toys_99696251-8def-4dc7-a345-bcf929a6ad9b_large.jpeg",
     "exclusiveRetailer": "Funko Walmart"
-  },
-  {
-    "upc": "889698352710",
-    "handle": "the-grinch-&amp;-cindy-lou-who-2-pack",
-    "name": "The Grinch &amp; Cindy-Lou Who (2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/594430/The_Grinch_and_Cindy-Lou_Who_%25282-Pack%2529_Vinyl_Art_Toys_Sets_d8b83e2c-56db-4a8f-89dd-ff77e3468dff_large.jpeg",
-    "exclusiveRetailer": "Funko Barnes & Noble"
   },
   {
     "upc": "889698127011",
@@ -92742,6 +92318,31 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698450348",
+    "handle": "the-mandalorian-&amp;-ig-11-2-pack",
+    "name": "The Mandalorian &amp; IG-11 (2-Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/764338/The_Mandalorian_and_IG-11_%25282-Pack%2529_Vinyl_Art_Toys_57b57ce5-3f5b-4d2f-a17e-14a100c650c1_large.jpg",
+    "exclusiveRetailer": "Funko Barnes & Noble"
+  },
+  {
+    "upc": "889698523738",
+    "handle": "the-mandalorian-&amp;-the-child-on-bantha",
+    "name": "The Mandalorian &amp; The Child on Bantha",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "seriesNumber": "#416",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/869344/The_Mandalorian_and_The_Child_on_Bantha_Vinyl_Art_Toys_f2acf876-f9fb-47fa-9431-8d610d86d6bc.jpg",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698526968",
     "handle": "the-mandalorian-chrome-(red)",
     "name": "The Mandalorian (Chrome) (Red)",
@@ -92791,31 +92392,6 @@
     "category": "Pop! Vinyl",
     "seriesNumber": "#326",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/883465/The_Mandalorian_%2528Signed_by_Pedro_Pascal%2529_Vinyl_Art_Toys_5acee464-8bc4-4b47-8e0e-02fb6b6e341e.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698450348",
-    "handle": "the-mandalorian-&amp;-ig-11-2-pack",
-    "name": "The Mandalorian &amp; IG-11 (2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/764338/The_Mandalorian_and_IG-11_%25282-Pack%2529_Vinyl_Art_Toys_57b57ce5-3f5b-4d2f-a17e-14a100c650c1_large.jpg",
-    "exclusiveRetailer": "Funko Barnes & Noble"
-  },
-  {
-    "upc": "889698523738",
-    "handle": "the-mandalorian-&amp;-the-child-on-bantha",
-    "name": "The Mandalorian &amp; The Child on Bantha",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#416",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/869344/The_Mandalorian_and_The_Child_on_Bantha_Vinyl_Art_Toys_f2acf876-f9fb-47fa-9431-8d610d86d6bc.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -93295,6 +92871,18 @@
     "exclusiveRetailer": ""
   },
   {
+    "upc": "889698323185",
+    "handle": "thor-&amp;-groot-2-pack",
+    "name": "Thor &amp; Groot (2-Pack)",
+    "franchise": "Pop! Vinyl",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/578445/Thor_and_Groot_%25282-Pack%2529_Vinyl_Art_Toys_Sets_8e768d2f-821e-467b-bca2-c930ac1d4d5d_large.png",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698477581",
     "handle": "thor-avengers-game",
     "name": "Thor (Avengers Game)",
@@ -93397,18 +92985,6 @@
     "seriesNumber": "#482",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/723931/Thor_%2528w%252F_Mjolnir_and_Stormbreaker%2529__Vinyl_Art_Toys_88cbbc09-37b1-4715-9d22-ad4616a2f495_large.jpg",
     "exclusiveRetailer": "Funko FYE"
-  },
-  {
-    "upc": "889698323185",
-    "handle": "thor-&amp;-groot-2-pack",
-    "name": "Thor &amp; Groot (2-Pack)",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/578445/Thor_and_Groot_%25282-Pack%2529_Vinyl_Art_Toys_Sets_8e768d2f-821e-467b-bca2-c930ac1d4d5d_large.png",
-    "exclusiveRetailer": ""
   },
   {
     "upc": "889698357999",
@@ -95715,19 +95291,6 @@
     "category": "Pop! Vinyl",
     "seriesNumber": "#329",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/872513/Veruca_Salt_%2528Signed_by_Julie_Dawn_Cole%2529_Vinyl_Art_Toys_f52535f7-50db-4233-89fe-1fde2d6e3cad_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698103022",
-    "handle": "vi",
-    "name": "Vi",
-    "franchise": "Pop! Vinyl",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "seriesNumber": "#6",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463039/Vi_Vinyl_Art_Toys_32c46480-1de4-40f0-905f-16ec64baa726_large.jpg",
     "exclusiveRetailer": ""
   },
   {
@@ -102335,6 +101898,18 @@
     "category": ""
   },
   {
+    "upc": "889698269971",
+    "handle": "han-solo-&amp;-chewbacca-2-pack",
+    "name": "Han Solo &amp; Chewbacca (2-Pack)",
+    "franchise": "Smuggler's Bounty",
+    "schemaVersion": 1,
+    "source": "USER_SCAN",
+    "contributedAt": "2026-06-12",
+    "category": "Pop! Vinyl",
+    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/578716/Han_Solo_and_Chewbacca_%25282-Pack%2529_Vinyl_Art_Toys_11df33ed-3f72-4359-aa90-7921cc6f4b92_large.png",
+    "exclusiveRetailer": ""
+  },
+  {
     "upc": "889698119627",
     "handle": "han-solo-hoth-with-tauntaun",
     "name": "Han Solo (Hoth) with Tauntaun",
@@ -102345,18 +101920,6 @@
     "category": "Pop! Vinyl",
     "seriesNumber": "#125",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/463453/Han_Solo_%2528Hoth%2529_with_Tauntaun_Vinyl_Art_Toys_e0b210df-1d70-44d1-93bb-87ad858e8714_large.jpg",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698269971",
-    "handle": "han-solo-&amp;-chewbacca-2-pack",
-    "name": "Han Solo &amp; Chewbacca (2-Pack)",
-    "franchise": "Smuggler's Bounty",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "category": "Pop! Vinyl",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/578716/Han_Solo_and_Chewbacca_%25282-Pack%2529_Vinyl_Art_Toys_11df33ed-3f72-4359-aa90-7921cc6f4b92_large.png",
     "exclusiveRetailer": ""
   },
   {
@@ -102733,18 +102296,6 @@
     "source": "USER_SCAN",
     "contributedAt": "2026-06-12",
     "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/880575/Noelle_Vinyl_Art_Toys_2c1921fb-a384-4e77-859f-ab3617493279_large.JPG",
-    "category": "",
-    "exclusiveRetailer": ""
-  },
-  {
-    "upc": "889698479677",
-    "handle": "pj",
-    "name": "PJ",
-    "franchise": "Snapsies",
-    "schemaVersion": 1,
-    "source": "USER_SCAN",
-    "contributedAt": "2026-06-12",
-    "imageUrl": "https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/880552/PJ_Vinyl_Art_Toys_b50750dd-d421-4ab1-a8e5-8bc56705d8ca_large.JPG",
     "category": "",
     "exclusiveRetailer": ""
   },
