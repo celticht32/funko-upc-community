@@ -1,106 +1,126 @@
-# FunkoDex Community UPC Database
+# FunkoDex Community Catalog
 
-Open-source UPC → Funko product mapping database, built collaboratively
-by FunkoDex app users and maintained by Celtic Heart Steamworks.
+The published catalog for the **FunkoDex** Android app, plus the UPC contributions
+that improve it. Maintained by Celtic Heart Steamworks.
 
 ## What this is
 
-The [Kenny Chan Funko Pop dataset](https://github.com/kennymkchan/funko-pop-data)
-contains 23,940+ Funko records with names and images but **zero UPC codes**.
-This repository adds the UPC layer on top, contributed anonymously by
-FunkoDex users who scan their physical collections.
+This repository is the **golden master**: the complete, corrected Funko catalog that
+every FunkoDex install converges on. The app ships with a snapshot bundled in the APK
+so it works offline from first launch, then refreshes from here monthly.
+
+All judgement about what belongs in the catalog happens *here*, once, before publish —
+visible in a git diff. Devices do not adjudicate; they replace. See
+`FunkoDex_Catalog_Distribution_Architecture_v1.3.docx` in the app repository.
 
 ## Repository contents
 
-| File / Folder | Purpose |
+| File / folder | Purpose |
 |---|---|
-| `funko_upc_community.json` | **Master file** — what the app downloads each refresh cycle |
-| `deltas/` | Daily delta files written by the Cloudflare Worker (one per device upload) |
-| `merge-state.json` | Tracks which delta files have been processed by the weekly merge |
-| `merge-deltas.js` | Weekly merge script (run by GitHub Actions every Sunday at 02:00 UTC) |
-| `validate-schema.js` | Schema validator — run after every merge and rebase |
-| `quarterly-rebase.py` | Quarterly quality-pass tool — local and CI mode |
-| `SCHEMA.md` | Field definitions, merge rules, schema version history |
-| `.github/workflows/merge-deltas.yml` | Weekly automated delta merge workflow |
-| `.github/workflows/quarterly-rebase.yml` | Quarterly quality review + rebase workflow |
+| `funko_catalog_master.json` | **The golden master.** Full catalog, human-readable, the reviewable artifact |
+| `funko_catalog_master.json.gz` | What devices download. Pinned by SHA-256 in the manifest |
+| `manifest.json` | Version, record count, size and checksum — the gate a device checks first |
+| `publish-master.py` | Validates the master and produces the two files above |
+| `funko_upc_community.json` | **Legacy (schema v1).** The UPC overlay older app builds fetch — see *Transition* |
+| `deltas/` | Contribution batches written by the Cloudflare Worker |
+| `merge-state.json` | Which delta files the merge has already consumed |
+| `merge-deltas.js` | Folds deltas into the v1 master (GitHub Actions, weekly) |
+| `validate-schema.js` | Schema gate — run after every merge |
+| `rebuild-community-master.py` | Rebuilds the v1 master from the corrected catalog |
+| `quarterly-rebase.py` | Quality pass — GS1 check digits, junk detection |
+| `SCHEMA.md` | Field reference for both schema versions |
 
-## How contributions flow
+## How data flows
+
+**Outbound — a contribution leaves a device**
 
 ```
-User scans UPC in FunkoDex app (Android)
+User scans a UPC the catalog does not know and matches it by hand
     │
-    ▼
-FunkoDex saves contrib:: document locally (Couchbase Lite)
+    ▼  saved locally as a contrib:: document (Couchbase Lite)
+    ▼  daily, only if the user opted in under Settings
+GitHubUploadWorker POSTs the pending batch to the Cloudflare Worker
     │
-    ▼ (daily, if contribution opt-in enabled in Settings)
-GitHubUploadWorker POSTs HMAC-signed delta to Cloudflare Worker
-    │
-    ▼
-Cloudflare Worker validates schema, rate-limits (50/device/day),
-writes delta file to deltas/{timestamp}-{deviceId}.json
-    │
-    ▼ (every Sunday 02:00 UTC — GitHub Actions)
-merge-deltas.js merges all unprocessed deltas into master file
-Deduplication: CHANNEL3 > USER_SCAN_CHANNEL3 > USER_SCAN
-    │
-    ▼ (every quarter — manual trigger or scheduled)
-quarterly-rebase.py validates GS1 check digits, cross-references
-Kenny Chan dataset, flags junk records for human review
-    │
-    ▼ (every CatalogRefreshWorker run — weekly on device)
-App downloads funko_upc_community.json and merges UPCs
-into local catalog:: Couchbase documents
+    ▼  the Worker holds the GitHub token, so the APK never does
+Worker validates each record, rate-limits by device, writes deltas/
 ```
+
+**Inbound — the catalog reaches a device**
+
+```
+Maintainer merges deltas, re-validates, runs publish-master.py
+    │
+    ▼  funko_catalog_master.json.gz + manifest.json committed and pushed
+Device fetches manifest.json (~250 bytes, monthly)
+    │
+    ▼  version unchanged? stop. This is the common case.
+Device downloads the gzip, verifies SHA-256 BEFORE inflating,
+applies it wholesale, then sweeps records the master no longer carries
+```
+
+A failed refresh changes nothing on the device: the partial download is deleted, the
+version marker is not written, and the next attempt backs off 6h → 24h → 72h.
+
+## Transition: two masters, for now
+
+`funko_upc_community.json` (schema v1, a UPC-only overlay) is what shipped app builds
+fetch. `funko_catalog_master.json` (schema v2, the full catalog) is what the current
+code fetches. **Keep both until no install is running a pre-v1.3 build**, or older
+installs lose their update feed entirely. Once the new build is the floor on Google
+Play, v1 and its merge tooling can be retired.
 
 ## Privacy
 
-All contributions are anonymous. No user identifiers, device models, or
-account information are ever uploaded. The only device identifier is a
-random UUID generated at install time and stored in EncryptedSharedPreferences.
-It is used only for rate-limiting (50 contributions per device per day) and
-is never stored in this repository.
+Every record here describes a product, not a person. Ownership, price paid, condition,
+notes and photos never leave the device and are not in this repository in any form.
 
-## Merge priority rules
+The only device identifier the Worker sees is a random install UUID, used for
+rate-limiting and never written to this repo.
 
-When two contributions map the same UPC to different products:
+## Merge priority
 
-| Priority | Source | Description |
+When contributions disagree about the same UPC:
+
+| Priority | Source | Meaning |
 |---|---|---|
-| 1 (highest) | `CHANNEL3` | Verified by Channel3 API |
-| 2 | `USER_SCAN_CHANNEL3` | User scan confirmed by Channel3 |
-| 3 (lowest) | `USER_SCAN` | User scan only, unverified |
+| 3 (highest) | `CHANNEL3` | Retrieved from the Channel3 structured API |
+| 2 | `USER_SCAN_CHANNEL3` | User scan, confirmed against Channel3 |
+| 1 | `USER_SCAN`, `USER_MANUAL`, `USER_EDIT` | User-asserted — never outranks confirmed data |
 
-Within the same source: more populated fields win; earlier contribution date wins on a tie.
+Within the same rank: more populated fields win, then the earlier `contributedAt`.
 
-## Schema
+This ordering applies **at merge time only**. The device does not evaluate source
+precedence — it trusts the published master as-is.
 
-See `SCHEMA.md` for the complete field reference. Current schema version: **1**.
+## Publishing
 
-Key fields:
-- `upc` — 12-digit UPC-A or 13-digit EAN-13
-- `handle` — Kenny Chan dataset handle (links to catalog entry)
-- `name` — full product name as printed on the box
-- `franchise` — IP/licence owner (e.g. "DC Comics", "Star Wars")
-- `category` — Funko product line (e.g. "Pop! Movies", "Pop! Heroes")
-- `source` — `CHANNEL3`, `USER_SCAN_CHANNEL3`, or `USER_SCAN`
+```
+python publish-master.py --version 2026-10 --dry-run   # validate, write nothing
+python publish-master.py --version 2026-10
+git add -A
+git commit -m "Publish catalog 2026-10"
+git tag catalog-2026-10
+git push --follow-tags
+```
+
+`publish-master.py` refuses to emit a master that fails validation or falls below the
+20,000-record floor. That floor matters: the client sweep deletes records the master
+omits, so a short master would gut every install.
+
+**Do not let git normalize the publish artifacts.** `.gitattributes` marks `*.gz` binary
+and sets `-text` on the master and manifest. A byte-level rewrite would break the
+checksum on every device, and it would look like a client bug.
 
 ## Quarterly rebase
 
-Run `quarterly-rebase.py` locally every three months to validate GS1 check
-digits, remove junk records, and cross-reference the Kenny Chan dataset.
-
-```bash
-# Local mode — interactive review
-python3 quarterly-rebase.py
-
-# CI mode — for the automated GitHub Actions workflow
-python3 quarterly-rebase.py --ci
+```
+python quarterly-rebase.py            # local, writes files for review
+python quarterly-rebase.py --ci       # GitHub Actions mode
 ```
 
-The GitHub Actions quarterly workflow runs automatically on the 1st of
-January, April, July, and October at 09:00 UTC. It creates a PR for human
-review when any records are flagged.
+Runs automatically on 1 January, April, July and October, and opens a PR when records
+are flagged.
 
 ---
 
-*Maintained by Celtic Heart Steamworks. Contributions welcome via the FunkoDex Android app.*
+*Maintained by Celtic Heart Steamworks. Contributions come through the FunkoDex Android app.*
