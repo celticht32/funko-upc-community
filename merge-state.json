@@ -1,7 +1,8 @@
 {
-  "lastMergedAt": "2026-06-12T11:07:11.838Z",
-  "totalRecords": 8219,
+  "lastMergedAt": "2026-09-20T23:42:19.767Z",
+  "totalRecords": 18195,
   "processedFiles": [
-    "enricher-2026-06-12T11-05-16.json"
+    "enricher-2026-06-12T11-05-16.json",
+    "2026-09-20-003fa7a8875e4610b07981582cd247f7-1789946973065.json"
   ]
 }
