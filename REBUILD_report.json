@@ -1,0 +1,1522 @@
+{
+  "generatedAt": "2026-09-20",
+  "catalogRows": 26655,
+  "uniqueCatalogUpcs": 17161,
+  "oldMasterRecords": 8219,
+  "newMasterRecords": 18159,
+  "addedUpcs": 9940,
+  "removedUpcs": 0,
+  "changedRecords": 7036,
+  "rejectedFromCatalog": {
+    "no franchise": 9,
+    "no name": 9
+  },
+  "invalidExcluded": [],
+  "orphans": {
+    "count": 1016,
+    "action": "carried"
+  },
+  "sampleChanges": [
+    {
+      "upc": "846626013570",
+      "old": {
+        "name": "Sukjai (Blue Shorts)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#43",
+        "handle": "sukjai-blue-shorts"
+      },
+      "new": {
+        "name": "Sukjai (Blue Shorts)",
+        "franchise": "Amazing Thailand",
+        "seriesNumber": "#43",
+        "handle": "sukjai-blue-shorts"
+      }
+    },
+    {
+      "upc": "849803056339",
+      "old": {
+        "name": "Joy (Glitter Hair) [Summer Convention]",
+        "franchise": "San Diego Comic-Con 2015",
+        "seriesNumber": "#132",
+        "handle": "joy-glitter-hair-[summer-convention]"
+      },
+      "new": {
+        "name": "Joy (Glitter Hair) [SDCC]",
+        "franchise": "Inside Out",
+        "seriesNumber": "#132",
+        "handle": "joy-glitter-hair-[sdcc]"
+      }
+    },
+    {
+      "upc": "889698415934",
+      "old": {
+        "name": "Freddy Funko as Genie (Metallic)",
+        "franchise": "San Diego Comic-Con 2019",
+        "seriesNumber": null,
+        "handle": "freddy-funko-as-genie-metallic"
+      },
+      "new": {
+        "name": "Freddy Funko As Genie [Metallic] #SE /350",
+        "franchise": "Freddy Funko",
+        "seriesNumber": null,
+        "handle": "pc-8008166"
+      }
+    },
+    {
+      "upc": "830395033358",
+      "old": {
+        "name": "Kerrigan",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#18",
+        "handle": "kerrigan"
+      },
+      "new": {
+        "name": "Kerrigan",
+        "franchise": "StarCraft II",
+        "seriesNumber": "#18",
+        "handle": "kerrigan"
+      }
+    },
+    {
+      "upc": "849803038816",
+      "old": {
+        "name": "Stormfly",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#97",
+        "handle": "stormfly"
+      },
+      "new": {
+        "name": "Stormfly",
+        "franchise": "How to Train Your Dragon 2",
+        "seriesNumber": "#97",
+        "handle": "pc-7489507"
+      }
+    },
+    {
+      "upc": "830395030821",
+      "old": {
+        "name": "Rorschach",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#24",
+        "handle": "rorschach"
+      },
+      "new": {
+        "name": "Rorschach",
+        "franchise": "Watchmen",
+        "seriesNumber": "#24",
+        "handle": "pc-7489426"
+      }
+    },
+    {
+      "upc": "889698259026",
+      "old": {
+        "name": "Neighbor Pumpkinhead (Glow in the Dark)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#266",
+        "handle": "neighbor-pumpkinhead-glow-in-the-dark"
+      },
+      "new": {
+        "name": "Neighbor Pumpkinhead",
+        "franchise": "Hello Neighbor",
+        "seriesNumber": "#266",
+        "handle": "pc-7515652"
+      }
+    },
+    {
+      "upc": "889698349062",
+      "old": {
+        "name": "Dwight Schrute",
+        "franchise": "Pocket Pop! And Tee Pack",
+        "seriesNumber": "#871",
+        "handle": "dwight-schrute"
+      },
+      "new": {
+        "name": "Dwight Schrute",
+        "franchise": "The Office",
+        "seriesNumber": "#871",
+        "handle": "pc-7493357"
+      }
+    },
+    {
+      "upc": "889698459594",
+      "old": {
+        "name": "Robin (Gold)",
+        "franchise": "Chase Pieces",
+        "seriesNumber": null,
+        "handle": "robin-gold"
+      },
+      "new": {
+        "name": "Robin (Gold)",
+        "franchise": "Soda Figures",
+        "seriesNumber": null,
+        "handle": "robin-gold"
+      }
+    },
+    {
+      "upc": "849803068219",
+      "old": {
+        "name": "MSGT Frank Woods",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#69",
+        "handle": "msgt-frank-woods"
+      },
+      "new": {
+        "name": "MSGT. Frank Woods (Muddy)",
+        "franchise": "Call of Duty",
+        "seriesNumber": "#69",
+        "handle": "msgt.-frank-woods-muddy"
+      }
+    },
+    {
+      "upc": "889698386012",
+      "old": {
+        "name": "Fred Sanford",
+        "franchise": "Pop! Television",
+        "seriesNumber": "#792",
+        "handle": "fred-sanford"
+      },
+      "new": {
+        "name": "Fred Sanford",
+        "franchise": "Sanford & Son",
+        "seriesNumber": "#792",
+        "handle": "fred-sanford"
+      }
+    },
+    {
+      "upc": "889698387170",
+      "old": {
+        "name": "Swinging Friar (Bat on Shoulder)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#16",
+        "handle": "swinging-friar-bat-on-shoulder"
+      },
+      "new": {
+        "name": "Swinging Friar",
+        "franchise": "MLB",
+        "seriesNumber": "#16",
+        "handle": "swinging-friar"
+      }
+    },
+    {
+      "upc": "849803074555",
+      "old": {
+        "name": "Felicity Smoak",
+        "franchise": "Pop! Television",
+        "seriesNumber": "#320",
+        "handle": "felicity-smoak"
+      },
+      "new": {
+        "name": "Felicity Smoak",
+        "franchise": "Arrow",
+        "seriesNumber": "#320",
+        "handle": "pc-7492081"
+      }
+    },
+    {
+      "upc": "889698308045",
+      "old": {
+        "name": "Prince Akeem (McDowell's)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#577",
+        "handle": "prince-akeem-mcdowell's"
+      },
+      "new": {
+        "name": "Prince Akeem (McDowell's)",
+        "franchise": "Coming to America",
+        "seriesNumber": "#577",
+        "handle": "prince-akeem-mcdowell's"
+      }
+    },
+    {
+      "upc": "889698477314",
+      "old": {
+        "name": "Venus Williams",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#1",
+        "handle": "venus-williams"
+      },
+      "new": {
+        "name": "Venus Williams",
+        "franchise": "Tennis Legends",
+        "seriesNumber": "#1",
+        "handle": "venus-williams"
+      }
+    },
+    {
+      "upc": "889698138062",
+      "old": {
+        "name": "James Hetfield",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#57",
+        "handle": "james-hetfield"
+      },
+      "new": {
+        "name": "James Hetfield",
+        "franchise": "Metallica",
+        "seriesNumber": "#57",
+        "handle": "james-hetfield"
+      }
+    },
+    {
+      "upc": "889698126274",
+      "old": {
+        "name": "Blue Ranger (Morphing)",
+        "franchise": "Pop! Television",
+        "seriesNumber": "#410",
+        "handle": "blue-ranger-morphing"
+      },
+      "new": {
+        "name": "Blue Ranger (Morphing)",
+        "franchise": "GameStop. Mighty Morphin Power Rangers",
+        "seriesNumber": "#410",
+        "handle": "blue-ranger-morphing"
+      }
+    },
+    {
+      "upc": "889698328722",
+      "old": {
+        "name": "Nelson Cruz (Boomstick)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#21",
+        "handle": "nelson-cruz-boomstick"
+      },
+      "new": {
+        "name": "Nelson Cruz",
+        "franchise": "Seattle Mariners",
+        "seriesNumber": "#21",
+        "handle": "pc-7525154"
+      }
+    },
+    {
+      "upc": "889698444231",
+      "old": {
+        "name": "Santa Claus &amp; Nutmeg with House",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#01",
+        "handle": "santa-claus-&amp;-nutmeg-with-house"
+      },
+      "new": {
+        "name": "Santa Claus & Nutmeg with House",
+        "franchise": "Christmas",
+        "seriesNumber": "#1",
+        "handle": "santa-claus-&-nutmeg-with-house"
+      }
+    },
+    {
+      "upc": "889698337304",
+      "old": {
+        "name": "Freddy Funko (Space Robot) (Teal)",
+        "franchise": "San Diego Comic-Con 2018",
+        "seriesNumber": null,
+        "handle": "freddy-funko-space-robot-(teal)"
+      },
+      "new": {
+        "name": "Freddy Funko (Space Robot) (Teal)",
+        "franchise": "Freddy Funko",
+        "seriesNumber": null,
+        "handle": "freddy-funko-space-robot-(teal)"
+      }
+    },
+    {
+      "upc": "846626009290",
+      "old": {
+        "name": "Monkey King (Gold)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#01",
+        "handle": "monkey-king-gold"
+      },
+      "new": {
+        "name": "Monkey King (Gold)",
+        "franchise": "Monkey King",
+        "seriesNumber": "#1",
+        "handle": "monkey-king-gold"
+      }
+    },
+    {
+      "upc": "889698504645",
+      "old": {
+        "name": "Rapunzel with Lantern",
+        "franchise": "Pop! Disney",
+        "seriesNumber": "#981",
+        "handle": "rapunzel-with-lantern"
+      },
+      "new": {
+        "name": "Rapunzel",
+        "franchise": "Tangled",
+        "seriesNumber": "#981",
+        "handle": "pc-7484056"
+      }
+    },
+    {
+      "upc": "889698122702",
+      "old": {
+        "name": "C.J. Parker",
+        "franchise": "Pop! Television",
+        "seriesNumber": "#446",
+        "handle": "c.j.-parker"
+      },
+      "new": {
+        "name": "C.J. Parker",
+        "franchise": "Baywatch",
+        "seriesNumber": "#446",
+        "handle": "c.j.-parker"
+      }
+    },
+    {
+      "upc": "889698341356",
+      "old": {
+        "name": "Blacklight Cupcake",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#381",
+        "handle": "blacklight-cupcake"
+      },
+      "new": {
+        "name": "Blacklight Cupcake",
+        "franchise": "Five Nights at Freddy's Blacklight",
+        "seriesNumber": "#381",
+        "handle": "blacklight-cupcake"
+      }
+    },
+    {
+      "upc": "889698519625",
+      "old": {
+        "name": "Ski Lloyd Christmas",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#1043",
+        "handle": "ski-lloyd-christmas"
+      },
+      "new": {
+        "name": "Ski Lloyd Christmas",
+        "franchise": "Walmart. Dumb and Dumber",
+        "seriesNumber": "#1043",
+        "handle": "pc-7490430"
+      }
+    },
+    {
+      "upc": "889698135627",
+      "old": {
+        "name": "Lurtz",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#533",
+        "handle": "lurtz"
+      },
+      "new": {
+        "name": "Lurtz",
+        "franchise": "The Lord of the Rings",
+        "seriesNumber": "#533",
+        "handle": "lurtz"
+      }
+    },
+    {
+      "upc": "889698446587",
+      "old": {
+        "name": "Aaron Rodgers (Super Bowl)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#43",
+        "handle": "aaron-rodgers-super-bowl"
+      },
+      "new": {
+        "name": "Aaron Rodgers (Super Bowl)",
+        "franchise": "Green Bay Packers",
+        "seriesNumber": "#43",
+        "handle": "aaron-rodgers-super-bowl"
+      }
+    },
+    {
+      "upc": "889698105361",
+      "old": {
+        "name": "Snoopy (Patriotic) [Summer Convention]",
+        "franchise": "San Diego Comic-Con 2016",
+        "seriesNumber": "#139",
+        "handle": "snoopy-patriotic-[summer-convention]"
+      },
+      "new": {
+        "name": "Snoopy (Patriotic) [SDCC]",
+        "franchise": "Peanuts",
+        "seriesNumber": "#139",
+        "handle": "snoopy-patriotic-[sdcc]"
+      }
+    },
+    {
+      "upc": "849803054984",
+      "old": {
+        "name": "Hatbox Ghost (Haunted Mansion)",
+        "franchise": "Pop! Disney",
+        "seriesNumber": "#165",
+        "handle": "hatbox-ghost-haunted-mansion"
+      },
+      "new": {
+        "name": "Hatbox Ghost (Haunted Mansion)",
+        "franchise": "Haunted Mansion",
+        "seriesNumber": "#165",
+        "handle": "hatbox-ghost-haunted-mansion"
+      }
+    },
+    {
+      "upc": "889698218481",
+      "old": {
+        "name": "Fat Man (Red)",
+        "franchise": "San Diego Comic-Con 2017",
+        "seriesNumber": "#216",
+        "handle": "fat-man-red"
+      },
+      "new": {
+        "name": "Fat Man (Red)",
+        "franchise": "Pop! Heroes",
+        "seriesNumber": "#216",
+        "handle": "fat-man-red"
+      }
+    },
+    {
+      "upc": "889698334181",
+      "old": {
+        "name": "Fun Bun",
+        "franchise": "Pop! Disney",
+        "seriesNumber": "#13",
+        "handle": "fun-bun"
+      },
+      "new": {
+        "name": "Fun Bun",
+        "franchise": "Ralph Breaks the Internet",
+        "seriesNumber": "#13",
+        "handle": "fun-bun"
+      }
+    },
+    {
+      "upc": "889698438148",
+      "old": {
+        "name": "Freddy Funko (Grey Aquasox Jersey)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#04",
+        "handle": "freddy-funko-grey-aquasox-jersey"
+      },
+      "new": {
+        "name": "Freddy Funko (Grey Aquasox Jersey)",
+        "franchise": "Aquasox",
+        "seriesNumber": "#4",
+        "handle": "freddy-funko-grey-aquasox-jersey"
+      }
+    },
+    {
+      "upc": "889698418843",
+      "old": {
+        "name": "Kevin Malone",
+        "franchise": "Pocket Pop!",
+        "seriesNumber": "#874",
+        "handle": "kevin-malone"
+      },
+      "new": {
+        "name": "Kevin Malone",
+        "franchise": "The Office",
+        "seriesNumber": "#874",
+        "handle": "pc-7492609"
+      }
+    },
+    {
+      "upc": "849803071493",
+      "old": {
+        "name": "Nick Wilde",
+        "franchise": "Pop! Disney",
+        "seriesNumber": "#186",
+        "handle": "nick-wilde"
+      },
+      "new": {
+        "name": "Nick Wilde",
+        "franchise": "Zootopia",
+        "seriesNumber": "#186",
+        "handle": "pc-7473778"
+      }
+    },
+    {
+      "upc": "787926101058",
+      "old": {
+        "name": "Clown",
+        "franchise": "Nightmare Before Christmas 25 Years",
+        "seriesNumber": null,
+        "handle": "clown"
+      },
+      "new": {
+        "name": "Clown",
+        "franchise": "Bozo",
+        "seriesNumber": null,
+        "handle": "clown"
+      }
+    },
+    {
+      "upc": "889698355919",
+      "old": {
+        "name": "Slick Morty",
+        "franchise": "Pop! Animation",
+        "seriesNumber": "#440",
+        "handle": "slick-morty"
+      },
+      "new": {
+        "name": "Slick Morty",
+        "franchise": "Rick and Morty",
+        "seriesNumber": "#440",
+        "handle": "slick-morty"
+      }
+    },
+    {
+      "upc": "830395024677",
+      "old": {
+        "name": "George Sanderson",
+        "franchise": "Pop! Disney",
+        "seriesNumber": "#14",
+        "handle": "george-sanderson"
+      },
+      "new": {
+        "name": "George Sanderson",
+        "franchise": "Disney Store",
+        "seriesNumber": "#14",
+        "handle": "pc-7473269"
+      }
+    },
+    {
+      "upc": "849803070243",
+      "old": {
+        "name": "Edith Cushing (Bloody)",
+        "franchise": "New York Comic Con 2015",
+        "seriesNumber": "#235",
+        "handle": "edith-cushing-bloody"
+      },
+      "new": {
+        "name": "Edith Cushing (Bloody)",
+        "franchise": "Crimson Peak",
+        "seriesNumber": "#235",
+        "handle": "edith-cushing-bloody"
+      }
+    },
+    {
+      "upc": "889698233521",
+      "old": {
+        "name": "Zero With Bone (Glow In The Dark)",
+        "franchise": "Chase Pieces",
+        "seriesNumber": "#336",
+        "handle": "zero-with-bone-glow-in-the-dark"
+      },
+      "new": {
+        "name": "Zero with Bone",
+        "franchise": "Nightmare Before Christmas",
+        "seriesNumber": "#336",
+        "handle": "zero-with-bone"
+      }
+    },
+    {
+      "upc": "849803063696",
+      "old": {
+        "name": "Soul",
+        "franchise": "Pop! Animation",
+        "seriesNumber": "#79",
+        "handle": "soul"
+      },
+      "new": {
+        "name": "Soul",
+        "franchise": "Soul Eater",
+        "seriesNumber": "#79",
+        "handle": "soul"
+      }
+    },
+    {
+      "upc": "889698510158",
+      "old": {
+        "name": "Stephen Curry (Alternate)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#95",
+        "handle": "stephen-curry-alternate"
+      },
+      "new": {
+        "name": "Stephen Curry (Alternate)",
+        "franchise": "NBA",
+        "seriesNumber": "#95",
+        "handle": "stephen-curry-alternate"
+      }
+    },
+    {
+      "upc": "889698116237",
+      "old": {
+        "name": "Blisk and Legion",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#134",
+        "handle": "blisk-and-legion"
+      },
+      "new": {
+        "name": "Blisk and Legion",
+        "franchise": "Titanfall 2",
+        "seriesNumber": "#134",
+        "handle": "blisk-and-legion"
+      }
+    },
+    {
+      "upc": "889698118729",
+      "old": {
+        "name": "Toasted Monkey Bomb",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#147",
+        "handle": "toasted-monkey-bomb"
+      },
+      "new": {
+        "name": "Monkey Bomb [Toasted]",
+        "franchise": "Call of Duty",
+        "seriesNumber": "#147",
+        "handle": "pc-7515537"
+      }
+    },
+    {
+      "upc": "889698466592",
+      "old": {
+        "name": "Wonder Woman Golden Armor Shield",
+        "franchise": "Pop! Heroes",
+        "seriesNumber": "#329",
+        "handle": "wonder-woman-golden-armor-shield"
+      },
+      "new": {
+        "name": "Wonder Woman Golden Armor Shield",
+        "franchise": "Wonder Woman 1984",
+        "seriesNumber": "#329",
+        "handle": "wonder-woman-golden-armor-shield"
+      }
+    },
+    {
+      "upc": "849803061326",
+      "old": {
+        "name": "Ed (Shaun Of The Dead) (Zombie)",
+        "franchise": "Supanova 2015",
+        "seriesNumber": "#259",
+        "handle": "ed-shaun-of-the-dead-(zombie)"
+      },
+      "new": {
+        "name": "Ed (Shaun Of The Dead) (Zombie)",
+        "franchise": "Shaun Of The Dead",
+        "seriesNumber": "#259",
+        "handle": "ed-shaun-of-the-dead-(zombie)"
+      }
+    },
+    {
+      "upc": "889698523592",
+      "old": {
+        "name": "LeBron James (10-Inch) (Purple)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": null,
+        "handle": "lebron-james-10-inch-(purple)"
+      },
+      "new": {
+        "name": "LeBron James (10-Inch) (Purple)",
+        "franchise": "NBA",
+        "seriesNumber": "#98",
+        "handle": "lebron-james-10-inch-(purple)"
+      }
+    },
+    {
+      "upc": "889698433556",
+      "old": {
+        "name": "Kevin with Up House [Fall Convention]",
+        "franchise": "New York Comic Con 2019",
+        "seriesNumber": "#5",
+        "handle": "kevin-with-up-house-[fall-convention]"
+      },
+      "new": {
+        "name": "Kevin with Up House [Fall Convention]",
+        "franchise": "Up",
+        "seriesNumber": "#5",
+        "handle": "kevin-with-up-house-[fall-convention]"
+      }
+    },
+    {
+      "upc": "889698273435",
+      "old": {
+        "name": "Felyne",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#295",
+        "handle": "felyne"
+      },
+      "new": {
+        "name": "Felyne",
+        "franchise": "Monster Hunter",
+        "seriesNumber": "#295",
+        "handle": "felyne"
+      }
+    },
+    {
+      "upc": "889698269773",
+      "old": {
+        "name": "Qi'ra",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#241",
+        "handle": "qi'ra"
+      },
+      "new": {
+        "name": "Qi'ra",
+        "franchise": "Solo A Star Wars Story",
+        "seriesNumber": "#241",
+        "handle": "qi'ra"
+      }
+    },
+    {
+      "upc": "889698520249",
+      "old": {
+        "name": "Gar Saxon",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#411",
+        "handle": "gar-saxon"
+      },
+      "new": {
+        "name": "Gar Saxon",
+        "franchise": "The Clone Wars",
+        "seriesNumber": "#411",
+        "handle": "gar-saxon"
+      }
+    },
+    {
+      "upc": "889698107860",
+      "old": {
+        "name": "Stormtrooper Conan",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#6",
+        "handle": "stormtrooper-conan"
+      },
+      "new": {
+        "name": "Stormtrooper Conan",
+        "franchise": "Conan",
+        "seriesNumber": "#6",
+        "handle": "pc-7488541"
+      }
+    },
+    {
+      "upc": "889698255622",
+      "old": {
+        "name": "R2-D2 (Gold) (Dome)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": null,
+        "handle": "r2-d2-gold-(dome)"
+      },
+      "new": {
+        "name": "R2-D2 [Collector's Edition]",
+        "franchise": "Collector's Edition",
+        "seriesNumber": null,
+        "handle": "pc-7952090"
+      }
+    },
+    {
+      "upc": "889698143776",
+      "old": {
+        "name": "Red Ranger (Dragon Shield)",
+        "franchise": "Pop! Television",
+        "seriesNumber": "#528",
+        "handle": "red-ranger-dragon-shield"
+      },
+      "new": {
+        "name": "Freddy Krueger [GITD]",
+        "franchise": "A Nightmare on Elm Street",
+        "seriesNumber": "#2",
+        "handle": "pc-7489404"
+      }
+    },
+    {
+      "upc": "849803061197",
+      "old": {
+        "name": "Tyreese (Bitten)",
+        "franchise": "Pop! Television",
+        "seriesNumber": "#310",
+        "handle": "tyreese-bitten"
+      },
+      "new": {
+        "name": "Tyrese Bloody",
+        "franchise": "Hot Topic. The Walking Dead",
+        "seriesNumber": "#310",
+        "handle": "pc-7492070"
+      }
+    },
+    {
+      "upc": "889698160148",
+      "old": {
+        "name": "TIE Fighter Pilot (First Order - Special Forces)",
+        "franchise": "Chase Pieces",
+        "seriesNumber": "#90",
+        "handle": "tie-fighter-pilot-first-order---special-forces"
+      },
+      "new": {
+        "name": "TIE Fighter Pilot",
+        "franchise": "Star Wars",
+        "seriesNumber": "#90",
+        "handle": "pc-7506258"
+      }
+    },
+    {
+      "upc": "830395022390",
+      "old": {
+        "name": "Greg Heffley",
+        "franchise": "Plushies",
+        "seriesNumber": null,
+        "handle": "greg-heffley"
+      },
+      "new": {
+        "name": "Greg Heffley",
+        "franchise": "Diary of a Wimpy Kid",
+        "seriesNumber": null,
+        "handle": "greg-heffley"
+      }
+    },
+    {
+      "upc": "846626012931",
+      "old": {
+        "name": "Fighting Po",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#102",
+        "handle": "fighting-po"
+      },
+      "new": {
+        "name": "Fighting Po",
+        "franchise": "Kung Fu Panda",
+        "seriesNumber": "#102",
+        "handle": "fighting-po"
+      }
+    },
+    {
+      "upc": "889698538626",
+      "old": {
+        "name": "El Aracno",
+        "franchise": "Soda Figures",
+        "seriesNumber": "#706",
+        "handle": "el-aracno"
+      },
+      "new": {
+        "name": "El Aracno",
+        "franchise": "Marvel Lucha Libre Edition",
+        "seriesNumber": "#706",
+        "handle": "el-aracno"
+      }
+    },
+    {
+      "upc": "889698249256",
+      "old": {
+        "name": "Abu (Flocked)",
+        "franchise": "Pop! Disney",
+        "seriesNumber": "#353",
+        "handle": "abu-flocked"
+      },
+      "new": {
+        "name": "Abu (Flocked)",
+        "franchise": "Aladdin",
+        "seriesNumber": "#353",
+        "handle": "abu-flocked"
+      }
+    },
+    {
+      "upc": "889698399142",
+      "old": {
+        "name": "Supreme Leader Kylo Ren in TIE Whisper",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#321",
+        "handle": "supreme-leader-kylo-ren-in-tie-whisper"
+      },
+      "new": {
+        "name": "Supreme Leader Kylo Ren in TIE Whisper",
+        "franchise": "Star Wars",
+        "seriesNumber": "#321",
+        "handle": "supreme-leader-kylo-ren-in-tie-whisper"
+      }
+    },
+    {
+      "upc": "849803096236",
+      "old": {
+        "name": "Poe Dameron (X-Wing Jumpsuit)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#120",
+        "handle": "poe-dameron-x-wing-jumpsuit"
+      },
+      "new": {
+        "name": "Poe Dameron (X-Wing Jumpsuit)",
+        "franchise": "Star Wars: The Force Awakens",
+        "seriesNumber": "#120",
+        "handle": "poe-dameron-x-wing-jumpsuit"
+      }
+    },
+    {
+      "upc": "889698345163",
+      "old": {
+        "name": "Pongo &amp; Perdita (2-Pack)",
+        "franchise": "Pocket Pop!",
+        "seriesNumber": null,
+        "handle": "pongo-&amp;-perdita-2-pack"
+      },
+      "new": {
+        "name": "Pongo & Perdita (2-Pack)",
+        "franchise": "Pocket Pop!",
+        "seriesNumber": null,
+        "handle": "pongo-&-perdita-2-pack"
+      }
+    },
+    {
+      "upc": "889698447232",
+      "old": {
+        "name": "Sanhok Survivor",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#557",
+        "handle": "sanhok-survivor"
+      },
+      "new": {
+        "name": "Sanhok Survivor",
+        "franchise": "PUBG",
+        "seriesNumber": "#557",
+        "handle": "sanhok-survivor"
+      }
+    },
+    {
+      "upc": "889698529860",
+      "old": {
+        "name": "Fireman McNugget",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#112",
+        "handle": "fireman-mcnugget"
+      },
+      "new": {
+        "name": "Fireman McNugget",
+        "franchise": "McDonald's",
+        "seriesNumber": "#112",
+        "handle": "fireman-mcnugget"
+      }
+    },
+    {
+      "upc": "889698450270",
+      "old": {
+        "name": "Stephen King with Axe and Book",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#44",
+        "handle": "stephen-king-with-axe-and-book"
+      },
+      "new": {
+        "name": "Stephen King with Axe and Book",
+        "franchise": "Stephen King",
+        "seriesNumber": "#44",
+        "handle": "stephen-king-with-axe-and-book"
+      }
+    },
+    {
+      "upc": "889698217798",
+      "old": {
+        "name": "Sam Emerson",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#614",
+        "handle": "sam-emerson"
+      },
+      "new": {
+        "name": "Sam Emerson",
+        "franchise": "The Lost Boys",
+        "seriesNumber": "#614",
+        "handle": "sam-emerson"
+      }
+    },
+    {
+      "upc": "889698131544",
+      "old": {
+        "name": "Emerald City Crusader (Glow in the Dark) [ECCC]",
+        "franchise": "Emerald City Comic Con 2017",
+        "seriesNumber": "#179",
+        "handle": "emerald-city-crusader-glow-in-the-dark-[eccc]"
+      },
+      "new": {
+        "name": "Emerald City Crusader (Glow in the Dark) [ECCC]",
+        "franchise": "Pop! Heroes",
+        "seriesNumber": "#179",
+        "handle": "emerald-city-crusader-glow-in-the-dark-[eccc]"
+      }
+    },
+    {
+      "upc": "846626019671",
+      "old": {
+        "name": "Hanuman (Orange)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#42",
+        "handle": "hanuman-orange"
+      },
+      "new": {
+        "name": "Hanuman (Orange)",
+        "franchise": "Legendary Creatures & Myths",
+        "seriesNumber": "#42",
+        "handle": "hanuman-orange"
+      }
+    },
+    {
+      "upc": "889698216890",
+      "old": {
+        "name": "Kitana",
+        "franchise": "Savage World",
+        "seriesNumber": "#253",
+        "handle": "kitana"
+      },
+      "new": {
+        "name": "Kitana",
+        "franchise": "Mortal Kombat X",
+        "seriesNumber": "#253",
+        "handle": "pc-7515639"
+      }
+    },
+    {
+      "upc": "889698498333",
+      "old": {
+        "name": "Hello Kitty (Sea)",
+        "franchise": "Pop! Plush",
+        "seriesNumber": "#41",
+        "handle": "hello-kitty-sea"
+      },
+      "new": {
+        "name": "Hello Kitty Sea",
+        "franchise": "Hello Kitty x Kaiju",
+        "seriesNumber": "#41",
+        "handle": "pc-7531600"
+      }
+    },
+    {
+      "upc": "889698408875",
+      "old": {
+        "name": "Anna (Frozen 2) (Travel Gear)",
+        "franchise": "Pop! Disney",
+        "seriesNumber": "#598",
+        "handle": "anna-frozen-2-(travel-gear)"
+      },
+      "new": {
+        "name": "Anna (Frozen 2) (Travel Gear)",
+        "franchise": "Frozen II",
+        "seriesNumber": "#598",
+        "handle": "anna-frozen-2-(travel-gear)"
+      }
+    },
+    {
+      "upc": "889698317542",
+      "old": {
+        "name": "Doug Baldwin",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#99",
+        "handle": "doug-baldwin"
+      },
+      "new": {
+        "name": "Doug Baldwin",
+        "franchise": "NFL",
+        "seriesNumber": "#99",
+        "handle": "doug-baldwin"
+      }
+    },
+    {
+      "upc": "889698429320",
+      "old": {
+        "name": "All Might (Teacher)",
+        "franchise": "Pop! Animation",
+        "seriesNumber": "#604",
+        "handle": "all-might-teacher"
+      },
+      "new": {
+        "name": "All Might (Teacher)",
+        "franchise": "My Hero Academia",
+        "seriesNumber": "#604",
+        "handle": "all-might-teacher"
+      }
+    },
+    {
+      "upc": "889698342643",
+      "old": {
+        "name": "RuPaul (Diamond Collection)",
+        "franchise": "RuPaul's DragCon LA 2019",
+        "seriesNumber": "#01",
+        "handle": "rupaul-diamond-collection"
+      },
+      "new": {
+        "name": "RuPaul (Diamond Collection)",
+        "franchise": "RuPaul",
+        "seriesNumber": "#1",
+        "handle": "rupaul-diamond-collection"
+      }
+    },
+    {
+      "upc": "830395026244",
+      "old": {
+        "name": "Gonzo",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#3",
+        "handle": "gonzo"
+      },
+      "new": {
+        "name": "Gonzo",
+        "franchise": "The Muppets",
+        "seriesNumber": "#3",
+        "handle": "gonzo"
+      }
+    },
+    {
+      "upc": "889698454353",
+      "old": {
+        "name": "Space Suit Morty with Snake",
+        "franchise": "Pop! Animation",
+        "seriesNumber": "#690",
+        "handle": "space-suit-morty-with-snake"
+      },
+      "new": {
+        "name": "Space Suit Morty with Snake",
+        "franchise": "Rick and Morty",
+        "seriesNumber": "#690",
+        "handle": "space-suit-morty-with-snake"
+      }
+    },
+    {
+      "upc": "074299098901",
+      "old": {
+        "name": "Grizzlor",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": null,
+        "handle": "grizzlor"
+      },
+      "new": {
+        "name": "Grizzlor",
+        "franchise": "Masters of The Universe",
+        "seriesNumber": "#40",
+        "handle": "grizzlor"
+      }
+    },
+    {
+      "upc": "889698127721",
+      "old": {
+        "name": "Groot (Vol. 2) (Adolescent)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#207",
+        "handle": "groot-vol.-2-(adolescent)"
+      },
+      "new": {
+        "name": "Groot (Vol. 2) (Adolescent)",
+        "franchise": "Guardians of the Galaxy Vol",
+        "seriesNumber": "#207",
+        "handle": "groot-vol.-2-(adolescent)"
+      }
+    },
+    {
+      "upc": "889698213523",
+      "old": {
+        "name": "Braden Holtby",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#16",
+        "handle": "braden-holtby"
+      },
+      "new": {
+        "name": "Braden Holtby",
+        "franchise": "Washington Capitals",
+        "seriesNumber": "#16",
+        "handle": "braden-holtby"
+      }
+    },
+    {
+      "upc": "889698134606",
+      "old": {
+        "name": "I Heart Gru Mel",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#423",
+        "handle": "i-heart-gru-mel"
+      },
+      "new": {
+        "name": "Mel I Heart Gru",
+        "franchise": "Walmart. Despicable Me 3",
+        "seriesNumber": "#423",
+        "handle": "pc-7489823"
+      }
+    },
+    {
+      "upc": "830395030555",
+      "old": {
+        "name": "Dr. Doom (Black &amp; White)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#17",
+        "handle": "dr.-doom-black-&amp;-white"
+      },
+      "new": {
+        "name": "Dr. Doom (Metallic)",
+        "franchise": "Marvel Universe: Series 2",
+        "seriesNumber": "#17",
+        "handle": "dr.-doom-metallic"
+      }
+    },
+    {
+      "upc": "889698421089",
+      "old": {
+        "name": "Ursula (Trident)",
+        "franchise": "Disney Mini Vinyl Figures",
+        "seriesNumber": null,
+        "handle": "ursula-trident"
+      },
+      "new": {
+        "name": "Ariel (Wedding)",
+        "franchise": "The Little Mermaid",
+        "seriesNumber": null,
+        "handle": "ariel-wedding"
+      }
+    },
+    {
+      "upc": "849803048778",
+      "old": {
+        "name": "Sadness",
+        "franchise": "Pocket Pop!",
+        "seriesNumber": "#133",
+        "handle": "sadness"
+      },
+      "new": {
+        "name": "Sadness",
+        "franchise": "Inside Out",
+        "seriesNumber": "#133",
+        "handle": "pc-7473589"
+      }
+    },
+    {
+      "upc": "830395022444",
+      "old": {
+        "name": "Run (Run DMC)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#9",
+        "handle": "run-run-dmc"
+      },
+      "new": {
+        "name": "Run",
+        "franchise": "Run DMC",
+        "seriesNumber": "#9",
+        "handle": "pc-7514747"
+      }
+    },
+    {
+      "upc": "889698410885",
+      "old": {
+        "name": "Poncho Punch",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#45",
+        "handle": "poncho-punch"
+      },
+      "new": {
+        "name": "Poncho Punch",
+        "franchise": "Otter Pops",
+        "seriesNumber": "#45",
+        "handle": "poncho-punch"
+      }
+    },
+    {
+      "upc": "846626014638",
+      "old": {
+        "name": "Faith",
+        "franchise": "Pop! Television",
+        "seriesNumber": "#1",
+        "handle": "faith-#597"
+      },
+      "new": {
+        "name": "Faith",
+        "franchise": "Buffy the Vampire Slayer",
+        "seriesNumber": "#1",
+        "handle": "faith"
+      }
+    },
+    {
+      "upc": "889698360234",
+      "old": {
+        "name": "Sparkle Specialist",
+        "franchise": "Pocket Pop!",
+        "seriesNumber": "#461",
+        "handle": "sparkle-specialist"
+      },
+      "new": {
+        "name": "Sparkle Specialist",
+        "franchise": "Fortnite",
+        "seriesNumber": "#461",
+        "handle": "pc-7515858"
+      }
+    },
+    {
+      "upc": "889698428798",
+      "old": {
+        "name": "Kyler Murray",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#133",
+        "handle": "kyler-murray"
+      },
+      "new": {
+        "name": "Kyler Murray",
+        "franchise": "NFL",
+        "seriesNumber": "#133",
+        "handle": "kyler-murray"
+      }
+    },
+    {
+      "upc": "889698413831",
+      "old": {
+        "name": "Dracula (Candle)",
+        "franchise": "Special Edition (Funko Pop!s)",
+        "seriesNumber": "#799",
+        "handle": "dracula-candle"
+      },
+      "new": {
+        "name": "Dracula (Candle)",
+        "franchise": "Walgreens. Universal Monsters",
+        "seriesNumber": "#799",
+        "handle": "dracula-candle"
+      }
+    },
+    {
+      "upc": "849803065065",
+      "old": {
+        "name": "Black Knight (Flesh Wound)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#246",
+        "handle": "black-knight-flesh-wound"
+      },
+      "new": {
+        "name": "Black Knight (Flesh Wound)",
+        "franchise": "Entertainment Earth",
+        "seriesNumber": "#246",
+        "handle": "black-knight-flesh-wound"
+      }
+    },
+    {
+      "upc": "889698343305",
+      "old": {
+        "name": "Wayne",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#684",
+        "handle": "wayne"
+      },
+      "new": {
+        "name": "Wayne",
+        "franchise": "Wayne's World",
+        "seriesNumber": "#684",
+        "handle": "pc-7490089"
+      }
+    },
+    {
+      "upc": "889698266345",
+      "old": {
+        "name": "Zamasu (Glow in the Dark)",
+        "franchise": "Pop! Animation",
+        "seriesNumber": "#316",
+        "handle": "zamasu-glow-in-the-dark"
+      },
+      "new": {
+        "name": "Zamasu (Glow in the Dark)",
+        "franchise": "Dragon Ball Super",
+        "seriesNumber": "#316",
+        "handle": "zamasu-glow-in-the-dark"
+      }
+    },
+    {
+      "upc": "889698428750",
+      "old": {
+        "name": "Michael Thomas",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#129",
+        "handle": "michael-thomas"
+      },
+      "new": {
+        "name": "Michael Thomas",
+        "franchise": "NFL",
+        "seriesNumber": "#129",
+        "handle": "michael-thomas"
+      }
+    },
+    {
+      "upc": "889698245708",
+      "old": {
+        "name": "Rafiki with Simba (Flocked)",
+        "franchise": "Pop! Disney",
+        "seriesNumber": "#301",
+        "handle": "rafiki-with-simba-flocked"
+      },
+      "new": {
+        "name": "Rafiki with Simba (Flocked)",
+        "franchise": "The Lion King",
+        "seriesNumber": "#301",
+        "handle": "rafiki-with-simba-flocked"
+      }
+    },
+    {
+      "upc": "889698415484",
+      "old": {
+        "name": "Freddy Funko as Venom",
+        "franchise": "San Diego Comic-Con 2019",
+        "seriesNumber": null,
+        "handle": "freddy-funko-as-venom"
+      },
+      "new": {
+        "name": "Freddy Funko as Venom",
+        "franchise": "Pop! Funko",
+        "seriesNumber": null,
+        "handle": "freddy-funko-as-venom"
+      }
+    },
+    {
+      "upc": "849803071448",
+      "old": {
+        "name": "Freddy Funko (Toy Tokyo 15th)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": null,
+        "handle": "freddy-funko-toy-tokyo-15th"
+      },
+      "new": {
+        "name": "Freddy Funko (Toy Tokyo 15th)",
+        "franchise": "Five Nights at Freddy's",
+        "seriesNumber": null,
+        "handle": "freddy-funko-toy-tokyo-15th"
+      }
+    },
+    {
+      "upc": "889698102100",
+      "old": {
+        "name": "Big Boy",
+        "franchise": "Soda Figures",
+        "seriesNumber": "#4",
+        "handle": "big-boy"
+      },
+      "new": {
+        "name": "Big Boy",
+        "franchise": "Bob's Big Boy",
+        "seriesNumber": "#4",
+        "handle": "pc-7467668"
+      }
+    },
+    {
+      "upc": "889698377928",
+      "old": {
+        "name": "Daenerys Targaryen (Iron Throne)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#75",
+        "handle": "daenerys-targaryen-iron-throne"
+      },
+      "new": {
+        "name": "Daenerys Targaryen",
+        "franchise": "Game of Thrones",
+        "seriesNumber": "#75",
+        "handle": "pc-7515297"
+      }
+    },
+    {
+      "upc": "889698480376",
+      "old": {
+        "name": "Lord Voldemort (10-Inch)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#109",
+        "handle": "lord-voldemort-10-inch"
+      },
+      "new": {
+        "name": "Lord Voldemort (10-Inch)",
+        "franchise": "Harry Potter",
+        "seriesNumber": "#109",
+        "handle": "lord-voldemort-10-inch"
+      }
+    },
+    {
+      "upc": "889698491686",
+      "old": {
+        "name": "Barbara Maitland (Transformed)",
+        "franchise": "Pop! Vinyl",
+        "seriesNumber": "#993",
+        "handle": "barbara-maitland-transformed"
+      },
+      "new": {
+        "name": "Barbara Maitland (Transformed)",
+        "franchise": "Beetlejuice",
+        "seriesNumber": "#993",
+        "handle": "barbara-maitland-transformed"
+      }
+    }
+  ],
+  "catalogSelfConflicts": 193
+}

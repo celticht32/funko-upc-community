@@ -24,7 +24,17 @@ const MASTER_FILE = 'funko_upc_community.json';
 const STATE_FILE  = 'merge-state.json';
 const DELTAS_DIR  = 'deltas';
 
-const SOURCE_RANK = { CHANNEL3: 3, USER_SCAN_CHANNEL3: 2, USER_SCAN: 1 };
+// USER_MANUAL / USER_EDIT are user-asserted matches, same standing as
+// USER_SCAN — a single user's entry must never outrank Channel3-confirmed
+// data. Ties then fall to populatedFields(), so a fuller correction wins.
+// Keep in sync with validate-schema.js, worker.js and CatalogRefreshWorker.kt.
+const SOURCE_RANK = {
+  CHANNEL3:           3,
+  USER_SCAN_CHANNEL3: 2,
+  USER_SCAN:          1,
+  USER_MANUAL:        1,
+  USER_EDIT:          1,
+};
 
 function populatedFields(r) {
   return ['upc','handle','name','franchise','category','seriesNumber',
