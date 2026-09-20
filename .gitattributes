@@ -1,2 +1,17 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Publish artifacts — the client pins funko_catalog_master.json.gz by SHA-256 in
+# manifest.json, so ANY byte-level rewrite on checkout breaks every device: the
+# download fails its checksum, is discarded, and the refresh backs off forever.
+# Git currently leaves the gzip alone because it sniffs it as binary. Do not rely
+# on sniffing for a file whose bytes are pinned.
+*.gz                      binary
+funko_catalog_master.json -text
+manifest.json             -text
+
+# Other binaries
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary
