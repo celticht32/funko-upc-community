@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "catalogVersion": "2026-10",
+  "catalogVersion": "2026-09",
   "recordCount": 26655,
-  "sha256": "4250bc4490b1c7e5d7ceb2264540c6d57a4e961535dca0d5deb76f9b9a88f2ea",
-  "sizeBytes": 2292962,
-  "publishedAt": "2026-09-20T13:53:52Z",
+  "sha256": "84ce815805b71cf43a9899c34063173e02f8a80c39c2143dfa70c1c264699628",
+  "sizeBytes": 2255518,
+  "publishedAt": "2026-09-21T10:54:46Z",
   "minRecordCount": 20000
 }
